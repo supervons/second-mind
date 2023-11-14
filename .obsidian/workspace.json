@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript学习.md",
+                "file": "technology/前端知识整合.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript学习.md",
+                "file": "technology/前端知识整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript学习.md",
+                "file": "technology/前端知识整合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript学习.md"
+                "file": "technology/前端知识整合.md"
               }
             }
+          },
+          {
+            "id": "48924c767276e988",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,14 +154,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "2327ccfd8714ca2b",
   "lastOpenFiles": [
+    "technology/前端知识整合.md",
+    "technology/map.canvas",
+    "technology/TypeScript学习.md",
+    "technology/未命名",
     "technology",
     "books",
-    "未命名.canvas",
-    "测试文档2.md",
     "Snipaste_2023-05-17_15-50-31.png",
-    "TypeScript学习.md",
     "未命名.md"
   ]
 }
