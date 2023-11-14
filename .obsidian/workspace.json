@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "036796f010d5c793",
+        "id": "8a2ba43389fc3b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "1063f5ba4fee2858",
+            "id": "f205196dfe4cb298",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-notes/self-manage/micro-habit.md",
+                "file": "technology/前端知识整合.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-notes/self-manage/micro-habit.md",
+                "file": "technology/前端知识整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-notes/self-manage/micro-habit.md",
+                "file": "technology/前端知识整合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-notes/self-manage/micro-habit.md"
+                "file": "technology/前端知识整合.md"
               }
             }
           },
@@ -162,13 +162,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "f205196dfe4cb298",
   "lastOpenFiles": [
-    "resource/micro-habit-mind.png",
+    "index.canvas",
     "book-notes/index.canvas",
-    "book-notes/self-manage/micro-habit.md",
-    "technology/前端知识整合.md",
     "未命名.md",
+    "home.md",
+    "book-notes/self-manage/micro-habit.md",
+    "resource/micro-habit-mind.png",
+    "technology/前端知识整合.md",
     "targets/target_1.md",
     "resource/BingWallpaper.jpg",
     "targets",
