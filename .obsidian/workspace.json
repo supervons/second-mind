@@ -11,14 +11,11 @@
             "id": "1063f5ba4fee2858",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "book-notes/index.canvas",
-                "viewState": {
-                  "x": -665.46626776698,
-                  "y": 57.219469785034526,
-                  "zoom": -0.5716724568033953
-                }
+                "file": "book-notes/self-manage/micro-habit.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-notes/index.canvas",
+                "file": "book-notes/self-manage/micro-habit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-notes/index.canvas",
+                "file": "book-notes/self-manage/micro-habit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-notes/index.canvas"
+                "file": "book-notes/self-manage/micro-habit.md"
               }
             }
           },
@@ -165,10 +162,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1063f5ba4fee2858",
+  "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
-    "book-notes/self-manage/micro-habit.md",
+    "resource/micro-habit-mind.png",
     "book-notes/index.canvas",
+    "book-notes/self-manage/micro-habit.md",
     "technology/前端知识整合.md",
     "未命名.md",
     "targets/target_1.md",
