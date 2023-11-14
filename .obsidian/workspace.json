@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "89d531553f7e2c4c",
+        "id": "b653b06f10179cc4",
         "type": "tabs",
         "children": [
           {
-            "id": "55c53b9598bc19d1",
+            "id": "0f53ce5aa64d8e55",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "diff-view",
               "state": {
-                "file": "index.canvas",
-                "viewState": {
-                  "x": 304.5,
-                  "y": -325,
-                  "zoom": -0.28623187643323644
-                }
+                "file": ".obsidian/graph.json",
+                "staged": false
               }
             }
           }
@@ -88,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,17 +157,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55c53b9598bc19d1",
+  "active": "0f53ce5aa64d8e55",
   "lastOpenFiles": [
-    "book-notes/index.canvas",
-    "book-notes/self-manage/micro-habit.md",
-    "technology/TypeScript.md",
-    "technology/前端知识整合.md",
     "books/IT/FE/JavaScript.md",
+    "technology/前端知识整合.md",
+    "technology/TypeScript.md",
     "targets/target_1.md",
+    "book-notes/self-manage/micro-habit.md",
+    "resource/JavaScript.pdf",
+    "book-notes/index.canvas",
     "index.canvas",
     "resource/BingWallpaper.jpg",
-    "resource/JavaScript.pdf",
     "books/IT/FE",
     "books/IT",
     "books",
