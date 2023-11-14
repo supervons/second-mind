@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a2ba43389fc3b1f",
+        "id": "89d531553f7e2c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "f205196dfe4cb298",
+            "id": "55c53b9598bc19d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "technology/前端知识整合.md",
-                "mode": "source",
-                "source": false
+                "file": "index.canvas",
+                "viewState": {
+                  "x": 304.5,
+                  "y": -325,
+                  "zoom": -0.28623187643323644
+                }
               }
             }
           }
@@ -69,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 200
   },
   "right": {
     "id": "488843dacf52d17f",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/前端知识整合.md",
+                "file": "index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/前端知识整合.md",
+                "file": "index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/前端知识整合.md"
+                "file": "index.canvas"
               }
             }
           },
@@ -145,12 +148,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,30 +164,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f205196dfe4cb298",
+  "active": "55c53b9598bc19d1",
   "lastOpenFiles": [
-    "index.canvas",
     "book-notes/index.canvas",
+    "book-notes/self-manage/micro-habit.md",
+    "technology/TypeScript.md",
+    "technology/前端知识整合.md",
+    "books/IT/FE/JavaScript.md",
+    "targets/target_1.md",
+    "index.canvas",
+    "resource/BingWallpaper.jpg",
+    "resource/JavaScript.pdf",
+    "books/IT/FE",
+    "books/IT",
+    "books",
+    "![[JavaScript.pdf]].md",
+    "resource/micro-habit-mind.png",
     "未命名.md",
     "home.md",
-    "book-notes/self-manage/micro-habit.md",
-    "resource/micro-habit-mind.png",
-    "technology/前端知识整合.md",
-    "targets/target_1.md",
-    "resource/BingWallpaper.jpg",
     "targets",
     "resource",
-    "technology/TypeScript.md",
     "resource",
     "IMG_0207.png",
     "target/IMG_0207.png",
     "target",
     "book-notes/self-manage",
     "微习惯：简单到不可能失败的自我管理法则.xmind",
-    "test1",
-    "technology/未命名",
-    "technology",
-    "book-notes",
     "Snipaste_2023-05-17_15-50-31.png"
   ]
 }
