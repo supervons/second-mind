@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8491fb42ad6fd9c3",
+        "id": "156dfd9059d282d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2327ccfd8714ca2b",
+            "id": "d226028737165ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technology/前端知识整合.md",
+                "file": "books/微习惯阅读笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "488843dacf52d17f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/前端知识整合.md",
+                "file": "books/微习惯阅读笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/前端知识整合.md",
+                "file": "books/微习惯阅读笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/前端知识整合.md"
+                "file": "books/微习惯阅读笔记.md"
               }
             }
           },
           {
-            "id": "48924c767276e988",
+            "id": "31cb813179b4ae5a",
             "type": "leaf",
             "state": {
-              "type": "git-history-view",
+              "type": "git-view",
               "state": {}
             }
           }
@@ -154,11 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2327ccfd8714ca2b",
+  "active": "d226028737165ffd",
   "lastOpenFiles": [
-    "technology/前端知识整合.md",
+    "technology/TypeScript.md",
+    "books/微习惯阅读笔记.md",
     "technology/map.canvas",
-    "technology/TypeScript学习.md",
+    "technology/前端知识整合.md",
     "technology/未命名",
     "technology",
     "books",
