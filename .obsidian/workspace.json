@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f7ea828b69eb34",
+        "id": "036796f010d5c793",
         "type": "tabs",
         "children": [
           {
-            "id": "9c0e91c712ccba1a",
+            "id": "1063f5ba4fee2858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "targets/target_1.md",
+                "file": "technology/前端知识整合.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "targets/target_1.md",
+                "file": "technology/前端知识整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "targets/target_1.md",
+                "file": "technology/前端知识整合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "targets/target_1.md"
+                "file": "technology/前端知识整合.md"
               }
             }
           },
@@ -146,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,11 +162,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9c0e91c712ccba1a",
+  "active": "1063f5ba4fee2858",
   "lastOpenFiles": [
-    "resource/BingWallpaper.jpg",
-    "targets/target_1.md",
+    "book-notes/self-manage/micro-habit.md",
+    "technology/map.canvas",
     "未命名.md",
+    "targets/target_1.md",
+    "resource/BingWallpaper.jpg",
     "targets",
     "resource",
     "technology/TypeScript.md",
@@ -175,11 +177,9 @@
     "target/IMG_0207.png",
     "target",
     "technology/前端知识整合.md",
-    "book-notes/self-manage/micro-habit.md",
     "book-notes/self-manage",
     "微习惯：简单到不可能失败的自我管理法则.xmind",
     "test1",
-    "technology/map.canvas",
     "technology/未命名",
     "technology",
     "book-notes",
