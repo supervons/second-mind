@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/微习惯阅读笔记.md",
+                "file": "book-notes/self-manage/micro-habit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/微习惯阅读笔记.md",
+                "file": "book-notes/self-manage/micro-habit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/微习惯阅读笔记.md",
+                "file": "book-notes/self-manage/micro-habit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/微习惯阅读笔记.md"
+                "file": "book-notes/self-manage/micro-habit.md"
               }
             }
           },
           {
-            "id": "31cb813179b4ae5a",
+            "id": "2d256720795c9fe8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -154,15 +154,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d226028737165ffd",
+  "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
+    "book-notes/self-manage",
+    "微习惯：简单到不可能失败的自我管理法则.xmind",
+    "book-notes/self-manage/micro-habit.md",
+    "test1",
     "technology/TypeScript.md",
-    "books/微习惯阅读笔记.md",
     "technology/map.canvas",
     "technology/前端知识整合.md",
     "technology/未命名",
     "technology",
-    "books",
+    "book-notes",
     "Snipaste_2023-05-17_15-50-31.png",
     "未命名.md"
   ]
