@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"725ec4f04b675b57","type":"file","file":"book-notes/self-manage/micro-habit.md","x":-540,"y":-200,"width":380,"height":240},
+		{"id":"022db956ece92af2","type":"text","text":"book-notes","x":-920,"y":260,"width":140,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"ebbbcb53231a496f","fromNode":"022db956ece92af2","fromSide":"right","toNode":"725ec4f04b675b57","toSide":"left"}
+	]
+}

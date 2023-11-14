@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"725ec4f04b675b57","x":-540,"y":-200,"width":402,"height":308,"type":"file","file":"book-notes/self-manage/micro-habit.md"},
-		{"id":"022db956ece92af2","type":"text","text":"Do best","x":-920,"y":260,"width":120,"height":60,"color":"6"}
-	],
-	"edges":[
-		{"id":"ebbbcb53231a496f","fromNode":"022db956ece92af2","fromSide":"right","toNode":"725ec4f04b675b57","toSide":"left"}
-	]
-}
