@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b8fad8ef93f1d708","x":-260,"y":0,"width":180,"height":36,"type":"text","text":"前端知识整合"},
+		{"id":"2a38675c081c5f79","x":16,"y":-198,"width":104,"height":36,"type":"text","text":"基础"},
+		{"id":"a81de8ee2e2351f4","x":202,"y":-331,"width":98,"height":36,"type":"text","text":"语言"},
+		{"id":"92928b7be69f5c64","type":"text","text":"JS","x":360,"y":-382,"width":98,"height":36},
+		{"id":"1b0d22eca813da7c","type":"text","text":"[[TypeScript]]","x":360,"y":-280,"width":160,"height":50}
+	],
+	"edges":[
+		{"id":"591f7a4e9d8a55f0","fromNode":"b8fad8ef93f1d708","fromSide":"right","toNode":"2a38675c081c5f79","toSide":"left"},
+		{"id":"e681c2d9667a65ec","fromNode":"2a38675c081c5f79","fromSide":"right","toNode":"a81de8ee2e2351f4","toSide":"left"},
+		{"id":"cc72cbe975686109","fromNode":"a81de8ee2e2351f4","fromSide":"right","toNode":"92928b7be69f5c64","toSide":"left"},
+		{"id":"de585ca3e26f1917","fromNode":"a81de8ee2e2351f4","fromSide":"right","toNode":"1b0d22eca813da7c","toSide":"left"}
+	]
+}

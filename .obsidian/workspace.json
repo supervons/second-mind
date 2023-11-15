@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b653b06f10179cc4",
+        "id": "4d0598b0bfb8bdaa",
         "type": "tabs",
         "children": [
           {
-            "id": "0f53ce5aa64d8e55",
+            "id": "2e00ea2c255685bd",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "canvas",
               "state": {
-                "file": ".obsidian/graph.json",
-                "staged": false
+                "file": "technology/index.canvas",
+                "viewState": {
+                  "x": 30.5,
+                  "y": -77,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -68,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "right": {
     "id": "488843dacf52d17f",
@@ -84,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "technology/index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "technology/index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "technology/index.canvas"
+              }
             }
           },
           {
@@ -157,22 +165,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0f53ce5aa64d8e55",
+  "active": "2e00ea2c255685bd",
   "lastOpenFiles": [
-    "books/IT/FE/JavaScript.md",
-    "technology/前端知识整合.md",
-    "technology/TypeScript.md",
-    "targets/target_1.md",
-    "book-notes/self-manage/micro-habit.md",
-    "resource/JavaScript.pdf",
-    "book-notes/index.canvas",
     "index.canvas",
+    "technology/index.canvas",
+    "technology/IT/FE/index.canvas",
+    "technology/IT/FE",
+    "technology/IT",
+    "technology/前端知识整合.md",
+    "book-notes/self-manage/MicroHabit.md",
+    "book-notes/self-manage/micro-habit.md",
+    "book-notes/index.canvas",
+    "book-notes/BookNotes.canvas",
+    "technology/IT/FE/TypeScript.md",
+    "books/IT/FE/JavaScript.md",
+    "resource/micro-habit-mind.png",
+    "targets/target_1.md",
+    "resource/JavaScript.pdf",
     "resource/BingWallpaper.jpg",
     "books/IT/FE",
     "books/IT",
     "books",
     "![[JavaScript.pdf]].md",
-    "resource/micro-habit-mind.png",
     "未命名.md",
     "home.md",
     "targets",
@@ -181,8 +195,6 @@
     "IMG_0207.png",
     "target/IMG_0207.png",
     "target",
-    "book-notes/self-manage",
-    "微习惯：简单到不可能失败的自我管理法则.xmind",
     "Snipaste_2023-05-17_15-50-31.png"
   ]
 }
