@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d0598b0bfb8bdaa",
+        "id": "9304b7f7700e2988",
         "type": "tabs",
         "children": [
           {
-            "id": "2e00ea2c255685bd",
+            "id": "da635e76a6e5a2e8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "diff-view",
               "state": {
-                "file": "index.canvas",
-                "viewState": {
-                  "x": 383.5,
-                  "y": -313,
-                  "zoom": -0.6052542465186377
-                }
+                "file": "technology/IT/FE/index.canvas",
+                "staged": false
               }
             }
           }
@@ -88,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +157,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2e00ea2c255685bd",
+  "active": "da635e76a6e5a2e8",
   "lastOpenFiles": [
+    "technology/IT/FE/index.canvas",
     "index.canvas",
     "technology/index.md",
     "technology/index.canvas",
@@ -176,7 +169,6 @@
     "resource/micro-habit-mind.png",
     "book-notes/self-manage/micro-habit.md",
     "book-notes/index.canvas",
-    "technology/IT/FE/index.canvas",
     "technology/IT/FE",
     "technology/IT",
     "technology/前端知识整合.md",
