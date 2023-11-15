@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "technology/index.canvas",
+                "file": "index.canvas",
                 "viewState": {
-                  "x": 30.5,
-                  "y": -77,
-                  "zoom": 0
+                  "x": 383.5,
+                  "y": -313,
+                  "zoom": -0.6052542465186377
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/index.canvas",
+                "file": "index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/index.canvas",
+                "file": "index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/index.canvas"
+                "file": "index.canvas"
               }
             }
           },
@@ -168,26 +168,26 @@
   "active": "2e00ea2c255685bd",
   "lastOpenFiles": [
     "index.canvas",
+    "technology/index.md",
     "technology/index.canvas",
+    "targets/target_1.md",
+    "resource/BingWallpaper.jpg",
+    "resource/JavaScript.pdf",
+    "resource/micro-habit-mind.png",
+    "book-notes/self-manage/micro-habit.md",
+    "book-notes/index.canvas",
     "technology/IT/FE/index.canvas",
     "technology/IT/FE",
     "technology/IT",
     "technology/前端知识整合.md",
     "book-notes/self-manage/MicroHabit.md",
-    "book-notes/self-manage/micro-habit.md",
-    "book-notes/index.canvas",
     "book-notes/BookNotes.canvas",
     "technology/IT/FE/TypeScript.md",
     "books/IT/FE/JavaScript.md",
-    "resource/micro-habit-mind.png",
-    "targets/target_1.md",
-    "resource/JavaScript.pdf",
-    "resource/BingWallpaper.jpg",
     "books/IT/FE",
     "books/IT",
     "books",
     "![[JavaScript.pdf]].md",
-    "未命名.md",
     "home.md",
     "targets",
     "resource",

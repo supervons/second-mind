@@ -1,17 +1,15 @@
 {
 	"nodes":[
 		{"id":"1da83a8741edc04e","type":"text","text":"targets","x":240,"y":-240,"width":153,"height":50},
-		{"id":"c2f1cf03af365017","type":"text","text":"[[technology/index.canvas|技术]]","x":240,"y":-60,"width":153,"height":50},
+		{"id":"c2f1cf03af365017","type":"text","text":"[[index | 技术]]","x":240,"y":-60,"width":100,"height":50},
 		{"id":"e5c5e13cfc95f787","type":"text","text":"book-notes","x":240,"y":-380,"width":153,"height":50},
 		{"id":"23426856ebf8bd89","type":"text","text":"Second-mind","x":-160,"y":-242,"width":176,"height":54,"color":"1"},
-		{"id":"efdd3a20b4023846","type":"file","file":"book-notes/index.canvas","x":520,"y":-640,"width":249,"height":177},
-		{"id":"b5cf9d0b185c8aa8","type":"text","text":"IT","x":562,"y":-101,"width":83,"height":50}
+		{"id":"efdd3a20b4023846","type":"file","file":"book-notes/index.canvas","x":520,"y":-640,"width":249,"height":177}
 	],
 	"edges":[
 		{"id":"f371e8fd8cfdb277","fromNode":"23426856ebf8bd89","fromSide":"right","toNode":"c2f1cf03af365017","toSide":"left"},
 		{"id":"e3a9abc5244a937a","fromNode":"23426856ebf8bd89","fromSide":"right","toNode":"1da83a8741edc04e","toSide":"left"},
 		{"id":"e2d9acb467f98588","fromNode":"23426856ebf8bd89","fromSide":"right","toNode":"e5c5e13cfc95f787","toSide":"left"},
-		{"id":"17295a026fce05c0","fromNode":"e5c5e13cfc95f787","fromSide":"right","toNode":"efdd3a20b4023846","toSide":"left"},
-		{"id":"38fd16320d395d65","fromNode":"c2f1cf03af365017","fromSide":"right","toNode":"b5cf9d0b185c8aa8","toSide":"left"}
+		{"id":"17295a026fce05c0","fromNode":"e5c5e13cfc95f787","fromSide":"right","toNode":"efdd3a20b4023846","toSide":"left"}
 	]
 }
