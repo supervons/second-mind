@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c7f8b2104e1145",
+        "id": "b2760a5400f78404",
         "type": "tabs",
         "children": [
           {
-            "id": "fd52cd0c29e26f06",
+            "id": "2264cb971ae5140e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "index.canvas",
-                "viewState": {
-                  "x": 304.5,
-                  "y": -325,
-                  "zoom": -1.3678739992802316
-                }
+                "file": "technology/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.canvas",
+                "file": "technology/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.canvas",
+                "file": "technology/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.canvas"
+                "file": "technology/index.md"
               }
             }
           },
@@ -147,9 +144,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "7c85c1b9cb6afbf2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -162,40 +167,56 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd52cd0c29e26f06",
+  "active": "2264cb971ae5140e",
   "lastOpenFiles": [
     "technology/index.md",
-    "technology/index.canvas",
-    "technology/IT/DevOps/VPS相关.md",
-    "book-notes/web-pages/MGThink.md",
-    "technology/IT/DevOps",
-    "resource/mgthink.png",
-    "book-notes/web-pages",
-    "technology/IT/FE/index.canvas",
-    "index.canvas",
-    "targets/target_1.md",
-    "resource/BingWallpaper.jpg",
-    "resource/JavaScript.pdf",
-    "resource/micro-habit-mind.png",
     "book-notes/self-manage/micro-habit.md",
     "book-notes/index.canvas",
-    "technology/IT/FE",
-    "technology/IT",
-    "technology/前端知识整合.md",
-    "book-notes/self-manage/MicroHabit.md",
+    "index.canvas",
+    "book-notes/para/1. Projects/Obsidian Theme/obsidian.css.md",
+    "book-notes/para/1. Projects/PARA Starter Kit/Workflows.md",
+    "book-notes/para/START HERE.md",
+    "book-notes/para/1. Projects/PARA Starter Kit/Methodology.md",
+    "book-notes/para/1. Projects/PARA Starter Kit/Outline.md",
+    "book-notes/para/1. Projects/PARA Starter Kit",
+    "book-notes/para/1. Projects/Notes Migration",
+    "book-notes/para/1. Projects/Obsidian Theme/Things to look into.md",
+    "book-notes/para/1. Projects/Obsidian Theme",
+    "book-notes/para/2. Areas/Productivity/Productivity.md",
+    "book-notes/para/2. Areas/Productivity/Daily Productive Hours.md",
+    "book-notes/para/2. Areas/Productivity/Timesheet.md",
+    "book-notes/para/2. Areas/Productivity/Task triage.md",
+    "book-notes/para/2. Areas/Productivity",
+    "book-notes/para/2. Areas/Finance/YNAB Reminder.md",
+    "book-notes/para/2. Areas/Finance/Finance.md",
+    "book-notes/para/2. Areas/Finance/Annual Salary to Weekly.md",
+    "book-notes/para/2. Areas/Finance",
+    "book-notes/para/2. Areas/House/House.md",
+    "book-notes/para/2. Areas/House/Moving tip.md",
+    "book-notes/para/2. Areas/House/Brand and models.md",
+    "book-notes/para/2. Areas/House/Apartment.md",
+    "book-notes/para/2. Areas/House",
+    "book-notes/para/2. Areas/Job/curl POST examples.md",
+    "book-notes/para/2. Areas/Job/block sudo to specific command.md",
+    "book-notes/para/2. Areas/Job/The Omnipresence of Work - More to That.md",
+    "book-notes/para/2. Areas/Job/Gradle cheatsheet.md",
+    "book-notes/para/2. Areas/Job/Filesystem limitation.md",
+    "book-notes/para/2. Areas/Job",
+    "book-notes/para/2. Areas/Personal Development/Personal Development.md",
+    "book-notes/para/2. Areas/Personal Development/Excitement map.md",
+    "book-notes/para/2. Areas/Personal Development",
+    "book-notes/para/2. Areas/Blog",
+    "book-notes/para/2. Areas/Health",
+    "technology/index.canvas",
+    "resource/mgthink.png",
+    "technology/IT/FE/index.canvas",
+    "resource/BingWallpaper.jpg",
+    "resource/micro-habit-mind.png",
     "book-notes/BookNotes.canvas",
-    "technology/IT/FE/TypeScript.md",
-    "books/IT/FE/JavaScript.md",
-    "books/IT/FE",
-    "books/IT",
-    "books",
-    "![[JavaScript.pdf]].md",
-    "home.md",
-    "targets",
-    "resource",
     "IMG_0207.png",
     "target/IMG_0207.png",
     "Snipaste_2023-05-17_15-50-31.png"
