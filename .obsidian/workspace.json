@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b718033f4314b1d",
+        "id": "c7c7f8b2104e1145",
         "type": "tabs",
         "children": [
           {
-            "id": "07acf08e0868e24d",
+            "id": "fd52cd0c29e26f06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "technology/IT/DevOps/VPS相关.md",
-                "mode": "source",
-                "source": false
+                "file": "index.canvas",
+                "viewState": {
+                  "x": 304.5,
+                  "y": -325,
+                  "zoom": -1.3678739992802316
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/IT/DevOps/VPS相关.md",
+                "file": "index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/IT/DevOps/VPS相关.md",
+                "file": "index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/IT/DevOps/VPS相关.md"
+                "file": "index.canvas"
               }
             }
           },
@@ -162,17 +165,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "07acf08e0868e24d",
+  "active": "fd52cd0c29e26f06",
   "lastOpenFiles": [
-    "book-notes/web-pages/MGThink.md",
+    "technology/index.md",
+    "technology/index.canvas",
     "technology/IT/DevOps/VPS相关.md",
+    "book-notes/web-pages/MGThink.md",
     "technology/IT/DevOps",
     "resource/mgthink.png",
     "book-notes/web-pages",
     "technology/IT/FE/index.canvas",
     "index.canvas",
-    "technology/index.md",
-    "technology/index.canvas",
     "targets/target_1.md",
     "resource/BingWallpaper.jpg",
     "resource/JavaScript.pdf",
