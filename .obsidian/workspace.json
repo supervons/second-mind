@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9304b7f7700e2988",
+        "id": "3b718033f4314b1d",
         "type": "tabs",
         "children": [
           {
-            "id": "da635e76a6e5a2e8",
+            "id": "07acf08e0868e24d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "technology/IT/FE/index.canvas",
-                "staged": false
+                "file": "technology/IT/DevOps/VPS相关.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "technology/IT/DevOps/VPS相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "technology/IT/DevOps/VPS相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "technology/IT/DevOps/VPS相关.md"
+              }
             }
           },
           {
@@ -157,8 +162,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "da635e76a6e5a2e8",
+  "active": "07acf08e0868e24d",
   "lastOpenFiles": [
+    "book-notes/web-pages/MGThink.md",
+    "technology/IT/DevOps/VPS相关.md",
+    "technology/IT/DevOps",
+    "resource/mgthink.png",
+    "book-notes/web-pages",
     "technology/IT/FE/index.canvas",
     "index.canvas",
     "technology/index.md",
@@ -183,10 +193,8 @@
     "home.md",
     "targets",
     "resource",
-    "resource",
     "IMG_0207.png",
     "target/IMG_0207.png",
-    "target",
     "Snipaste_2023-05-17_15-50-31.png"
   ]
 }
