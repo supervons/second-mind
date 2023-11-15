@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b2760a5400f78404",
+        "id": "fceab41716b5e46d",
         "type": "tabs",
         "children": [
           {
-            "id": "2264cb971ae5140e",
+            "id": "552e0df036782069",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resource/template/Project-Todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f5fba1aa60895e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resource/template/Project-Todo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resource/template/Project-Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resource/template/Project-Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "resource/template/Project-Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,14 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2264cb971ae5140e",
+  "active": "552e0df036782069",
   "lastOpenFiles": [
+    "book-notes/web-pages/MGThink.md",
+    "book-notes/index.canvas",
+    "resource/template/ProjectTodo.md",
+    "resource/template/未命名.md",
+    "2023-11-15.md",
     "technology/index.md",
-    "resource/template/Project-Todo.md",
     "resource/template",
     "books/Standard",
     "book-notes/self-manage/micro-habit.md",
-    "book-notes/index.canvas",
     "index.canvas",
     "book-notes/para/1. Projects/Obsidian Theme/obsidian.css.md",
     "book-notes/para/1. Projects/PARA Starter Kit/Workflows.md",
@@ -217,11 +200,7 @@
     "book-notes/para/2. Areas/House",
     "book-notes/para/2. Areas/Job/curl POST examples.md",
     "book-notes/para/2. Areas/Job/block sudo to specific command.md",
-    "book-notes/para/2. Areas/Job/The Omnipresence of Work - More to That.md",
-    "book-notes/para/2. Areas/Job/Gradle cheatsheet.md",
-    "book-notes/para/2. Areas/Job/Filesystem limitation.md",
     "book-notes/para/2. Areas/Job",
-    "book-notes/para/2. Areas/Personal Development/Personal Development.md",
     "book-notes/para/2. Areas/Personal Development",
     "technology/index.canvas",
     "resource/mgthink.png",
