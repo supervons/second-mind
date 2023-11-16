@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0f264b402b741232",
+        "id": "9f59a1c702f45d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c253c8f4532768b",
+            "id": "cf417832a1e4a8b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0_inbox/云原生&云计算&数字化转型预研.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0_inbox/云原生&云计算&数字化转型预研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0_inbox/云原生&云计算&数字化转型预研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,19 +128,13 @@
             }
           },
           {
-            "id": "4ef50cc4a6690bfa",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
             "id": "36a70fd01e82fe22",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0_inbox/云原生&云计算&数字化转型预研.md"
+              }
             }
           },
           {
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,15 +181,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c253c8f4532768b",
+  "active": "cf417832a1e4a8b1",
   "lastOpenFiles": [
-    "2023-11-16.md",
+    "2_area/20_IT/04_云原生/什么是云原生.md",
+    "0_inbox/云原生&云计算&数字化转型预研.md",
+    "3_resource/web-pages/whatiscloudnative.pdf",
+    "Pasted image 20231116152501.png",
+    "2_area/20_IT/04_云原生",
+    "0_inbox/IaaS&PaaS&SaaS.md",
+    "未命名看板.md",
     "0_inbox/存放目的.md",
+    "2_area/30_工作/00_方法论/微习惯.md",
+    "2_area/10_哲学&宗教/01_理论/index.md",
+    "1_project/手办退货.md",
+    "2023-11-16.md",
     "1_project/index.md",
     "0_inbox",
     "index.canvas",
-    "未命名看板.md",
-    "1_project/手办退货.md",
     "2_area/00_健康/index.md",
     "2_area/30_工作/01_项目/myss/index.md",
     "2_area/30_工作/01_项目/index.md",
@@ -205,17 +213,11 @@
     "2_area/20_IT/01_泛前端/TypeScript.md",
     "2_area/30_工作/00_方法论/芒格经验.md",
     "book-notes/index.canvas",
-    "2_area/30_工作/00_方法论/微习惯.md",
     "2_area/00_健康/00_理论/index.md",
     "resource/upload/mgthink 1.png",
     "2_area/60_未来/01_生活方式/index.md",
     "2_area/60_未来/00_热门行业/index.md",
     "2_area/50_娱乐/03_VR/index.md",
-    "2_area/50_娱乐/01_电影/index.md",
-    "2_area/50_娱乐/00_游戏/index.md",
-    "2_area/40_生活/03_朋友/index.md",
-    "2_area/40_生活/02_好物/index.md",
-    "2_area/40_生活/01_技巧/index.md",
     "4_archive/2023",
     "3_resource/web-pages",
     "3_resource/upload/BingWallpaper.jpg",
@@ -223,8 +225,6 @@
     "2_area/10_哲学&宗教/01_理论",
     "2_area/10_哲学&宗教/00_思想",
     "2_area/60_未来/00_热门行业",
-    "2_area/60_未来/01_生活方式",
-    "area/60_未来/02_",
     "3_resource/upload/mgthink.png",
     "3_resource/upload/micro-habit-mind.png",
     "book-notes/BookNotes.canvas",
