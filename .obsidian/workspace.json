@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9f59a1c702f45d7c",
+        "id": "f4ef0a4c7c0b8d66",
         "type": "tabs",
         "children": [
           {
-            "id": "cf417832a1e4a8b1",
+            "id": "e614916dc7d4637d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_inbox/云原生&云计算&数字化转型预研.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "404595e9d80e1faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,21 +194,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf417832a1e4a8b1",
+  "active": "404595e9d80e1faf",
   "lastOpenFiles": [
-    "2_area/20_IT/04_云原生/什么是云原生.md",
+    "3_resource/upload/CloudNative.png",
     "0_inbox/云原生&云计算&数字化转型预研.md",
-    "3_resource/web-pages/whatiscloudnative.pdf",
-    "Pasted image 20231116152501.png",
-    "2_area/20_IT/04_云原生",
     "0_inbox/IaaS&PaaS&SaaS.md",
-    "未命名看板.md",
     "0_inbox/存放目的.md",
+    "1_project/index.md",
+    "1_project/手办退货.md",
+    "3_resource/upload/micro-habit-mind.png",
+    "3_resource/upload/JavaScript.pdf",
+    "2_area/20_IT/04_云原生/什么是云原生.md",
+    "3_resource/web-pages/whatiscloudnative.pdf",
+    "2_area/20_IT/04_云原生",
+    "未命名看板.md",
     "2_area/30_工作/00_方法论/微习惯.md",
     "2_area/10_哲学&宗教/01_理论/index.md",
-    "1_project/手办退货.md",
     "2023-11-16.md",
-    "1_project/index.md",
     "0_inbox",
     "index.canvas",
     "2_area/00_健康/index.md",
@@ -224,9 +239,7 @@
     "3_resource/upload",
     "2_area/10_哲学&宗教/01_理论",
     "2_area/10_哲学&宗教/00_思想",
-    "2_area/60_未来/00_热门行业",
     "3_resource/upload/mgthink.png",
-    "3_resource/upload/micro-habit-mind.png",
     "book-notes/BookNotes.canvas",
     "IMG_0207.png",
     "target/IMG_0207.png",
