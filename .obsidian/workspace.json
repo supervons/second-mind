@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "area/60_未来/index.md",
+                "file": "area/00_健康/00_理论/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "area/60_未来/index.md",
+                "file": "area/00_健康/00_理论/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "area/60_未来/index.md",
+                "file": "area/00_健康/00_理论/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "area/60_未来/index.md"
+                "file": "area/00_健康/00_理论/index.md"
               }
             }
           },
@@ -183,18 +183,35 @@
   },
   "active": "6989590aeb543e38",
   "lastOpenFiles": [
+    "area/60_未来/01_生活方式/index.md",
+    "area/60_未来/00_热门行业/index.md",
+    "area/50_娱乐/03_VR/index.md",
+    "area/50_娱乐/02_手办/index.md",
+    "area/50_娱乐/01_电影/index.md",
+    "area/50_娱乐/00_游戏/index.md",
+    "area/40_生活/03_朋友/index.md",
+    "area/40_生活/02_好物/index.md",
+    "area/40_生活/01_技巧/index.md",
+    "area/40_生活/00_常识/index.md",
+    "area/30_工作/03_管理/index.md",
+    "area/30_工作/02_沟通/index.md",
+    "area/30_工作/01_项目/index.md",
+    "area/30_工作/00_方法论/index.md",
+    "area/20_IT/03_运维/index.md",
+    "area/20_IT/02_后端/index.md",
+    "area/20_IT/01_泛前端/index.md",
+    "area/20_IT/00_网络/index.md",
+    "area/10_哲学&宗教/02_心得/index.md",
+    "area/10_哲学&宗教/01_理论/index.md",
+    "area/10_哲学&宗教/00_思想/index.md",
+    "area/00_健康/01_方法/index.md",
+    "area/60_未来/index.md",
+    "area/00_健康/00_理论/index.md",
     "area/50_娱乐/index.md",
     "area/40_生活/index.md",
-    "area/30_工作/index.md",
-    "area/20_IT/index.md",
-    "area/10_哲学&宗教/index.md",
-    "area/00_健康/index.md",
-    "area/60_未来/index.md",
-    "area/index.md",
     "index.canvas",
     "archive/2023",
     "resource/web-pages",
-    "resource/books/IT/FE/JavaScript.md",
     "resource/upload/BingWallpaper.jpg",
     "resource/upload",
     "area/10_哲学&宗教/01_理论",
@@ -205,24 +222,7 @@
     "area/60_未来/03_",
     "area/50_娱乐/00_游戏",
     "technology/IT/FE/index.canvas",
-    "technology/IT/DevOps/VPS相关.md",
-    "targets/target_1.md",
-    "book-notes/web-pages/MGThink.md",
     "book-notes/index.canvas",
-    "resource/template/ProjectTodo.md",
-    "resource/template/未命名.md",
-    "2023-11-15.md",
-    "technology/index.md",
-    "book-notes/self-manage/micro-habit.md",
-    "book-notes/para/1. Projects/Obsidian Theme/obsidian.css.md",
-    "book-notes/para/1. Projects/PARA Starter Kit/Workflows.md",
-    "book-notes/para/START HERE.md",
-    "book-notes/para/1. Projects/PARA Starter Kit/Methodology.md",
-    "book-notes/para/1. Projects/PARA Starter Kit/Outline.md",
-    "book-notes/para/1. Projects/Obsidian Theme/Things to look into.md",
-    "book-notes/para/2. Areas/Productivity/Productivity.md",
-    "book-notes/para/2. Areas/Productivity/Daily Productive Hours.md",
-    "book-notes/para/2. Areas/Productivity/Timesheet.md",
     "technology/index.canvas",
     "resource/upload/mgthink.png",
     "resource/upload/micro-habit-mind.png",
