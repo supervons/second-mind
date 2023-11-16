@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6135b7c142f55179",
+        "id": "5719b9cae260609c",
         "type": "tabs",
         "children": [
           {
-            "id": "6989590aeb543e38",
+            "id": "c087a2792bb362cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "area/00_健康/00_理论/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "area/00_健康/00_理论/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "area/00_健康/00_理论/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "area/00_健康/00_理论/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,8 +173,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6989590aeb543e38",
+  "active": "c087a2792bb362cf",
   "lastOpenFiles": [
+    "area/00_健康/00_理论/index.md",
+    "resource/upload/mgthink 1.png",
     "area/60_未来/01_生活方式/index.md",
     "area/60_未来/00_热门行业/index.md",
     "area/50_娱乐/03_VR/index.md",
@@ -206,9 +200,7 @@
     "area/10_哲学&宗教/00_思想/index.md",
     "area/00_健康/01_方法/index.md",
     "area/60_未来/index.md",
-    "area/00_健康/00_理论/index.md",
     "area/50_娱乐/index.md",
-    "area/40_生活/index.md",
     "index.canvas",
     "archive/2023",
     "resource/web-pages",
