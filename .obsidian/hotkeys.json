@@ -15,5 +15,13 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-kanban:create-new-kanban-board": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "K"
+    }
   ]
 }
