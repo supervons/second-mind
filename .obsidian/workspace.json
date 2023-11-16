@@ -11,8 +11,12 @@
             "id": "83bfdcf7ec64cdbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2_area/30_工作/01_项目/myss/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_area/30_工作/01_项目/myss/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_area/30_工作/01_项目/myss/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_area/30_工作/01_项目/myss/index.md"
+              }
             }
           },
           {
@@ -175,6 +183,9 @@
   },
   "active": "83bfdcf7ec64cdbe",
   "lastOpenFiles": [
+    "2_area/30_工作/01_项目/index.md",
+    "2_area/30_工作/01_项目/myss/index.md",
+    "2_area/30_工作/01_项目/myss",
     "1_project/index.md",
     "1_project/手办退货.md",
     "2023-11-16.md",
@@ -203,8 +214,6 @@
     "2_area/40_生活/00_常识/index.md",
     "2_area/30_工作/03_管理/index.md",
     "2_area/30_工作/02_沟通/index.md",
-    "2_area/30_工作/01_项目/index.md",
-    "2_area/30_工作/00_方法论/index.md",
     "index.canvas",
     "4_archive/2023",
     "3_resource/web-pages",
@@ -216,7 +225,6 @@
     "2_area/60_未来/01_生活方式",
     "area/60_未来/02_",
     "area/60_未来/03_",
-    "2_area/50_娱乐/00_游戏",
     "3_resource/upload/mgthink.png",
     "3_resource/upload/micro-habit-mind.png",
     "book-notes/BookNotes.canvas",
