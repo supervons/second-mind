@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fceab41716b5e46d",
+        "id": "6135b7c142f55179",
         "type": "tabs",
         "children": [
           {
-            "id": "552e0df036782069",
+            "id": "6989590aeb543e38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "area/60_未来/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "area/60_未来/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "area/60_未来/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "area/60_未来/index.md"
+              }
             }
           },
           {
@@ -144,6 +152,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "847b212a1fb8040a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -163,50 +181,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "552e0df036782069",
+  "active": "6989590aeb543e38",
   "lastOpenFiles": [
+    "area/50_娱乐/index.md",
+    "area/40_生活/index.md",
+    "area/30_工作/index.md",
+    "area/20_IT/index.md",
+    "area/10_哲学&宗教/index.md",
+    "area/00_健康/index.md",
+    "area/60_未来/index.md",
+    "area/index.md",
+    "index.canvas",
+    "archive/2023",
+    "resource/web-pages",
+    "resource/books/IT/FE/JavaScript.md",
+    "resource/upload/BingWallpaper.jpg",
+    "resource/upload",
+    "area/10_哲学&宗教/01_理论",
+    "area/10_哲学&宗教/00_思想",
+    "area/60_未来/00_热门行业",
+    "area/60_未来/01_生活方式",
+    "area/60_未来/02_",
+    "area/60_未来/03_",
+    "area/50_娱乐/00_游戏",
+    "technology/IT/FE/index.canvas",
+    "technology/IT/DevOps/VPS相关.md",
+    "targets/target_1.md",
     "book-notes/web-pages/MGThink.md",
     "book-notes/index.canvas",
     "resource/template/ProjectTodo.md",
     "resource/template/未命名.md",
     "2023-11-15.md",
     "technology/index.md",
-    "resource/template",
-    "books/Standard",
     "book-notes/self-manage/micro-habit.md",
-    "index.canvas",
     "book-notes/para/1. Projects/Obsidian Theme/obsidian.css.md",
     "book-notes/para/1. Projects/PARA Starter Kit/Workflows.md",
     "book-notes/para/START HERE.md",
     "book-notes/para/1. Projects/PARA Starter Kit/Methodology.md",
     "book-notes/para/1. Projects/PARA Starter Kit/Outline.md",
-    "book-notes/para/1. Projects/PARA Starter Kit",
-    "book-notes/para/1. Projects/Notes Migration",
     "book-notes/para/1. Projects/Obsidian Theme/Things to look into.md",
-    "book-notes/para/1. Projects/Obsidian Theme",
     "book-notes/para/2. Areas/Productivity/Productivity.md",
     "book-notes/para/2. Areas/Productivity/Daily Productive Hours.md",
     "book-notes/para/2. Areas/Productivity/Timesheet.md",
-    "book-notes/para/2. Areas/Productivity/Task triage.md",
-    "book-notes/para/2. Areas/Productivity",
-    "book-notes/para/2. Areas/Finance/YNAB Reminder.md",
-    "book-notes/para/2. Areas/Finance/Finance.md",
-    "book-notes/para/2. Areas/Finance/Annual Salary to Weekly.md",
-    "book-notes/para/2. Areas/Finance",
-    "book-notes/para/2. Areas/House/House.md",
-    "book-notes/para/2. Areas/House/Moving tip.md",
-    "book-notes/para/2. Areas/House/Brand and models.md",
-    "book-notes/para/2. Areas/House/Apartment.md",
-    "book-notes/para/2. Areas/House",
-    "book-notes/para/2. Areas/Job/curl POST examples.md",
-    "book-notes/para/2. Areas/Job/block sudo to specific command.md",
-    "book-notes/para/2. Areas/Job",
-    "book-notes/para/2. Areas/Personal Development",
     "technology/index.canvas",
-    "resource/mgthink.png",
-    "technology/IT/FE/index.canvas",
-    "resource/BingWallpaper.jpg",
-    "resource/micro-habit-mind.png",
+    "resource/upload/mgthink.png",
+    "resource/upload/micro-habit-mind.png",
     "book-notes/BookNotes.canvas",
     "IMG_0207.png",
     "target/IMG_0207.png",
