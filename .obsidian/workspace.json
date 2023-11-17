@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ef0a4c7c0b8d66",
+        "id": "27af939ca9323f91",
         "type": "tabs",
         "children": [
           {
-            "id": "e614916dc7d4637d",
+            "id": "afc586ac72d892c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_area/20_IT/04_云原生/云原生&云计算&数字化转型预研.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cca8fb989e7e048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_area/20_IT/04_云原生/云原生&云计算&数字化转型预研.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d96fd56e239df87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_project/云原生会议总结.md",
+                "file": "0_inbox/存放目的.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/云原生会议总结.md",
+                "file": "0_inbox/存放目的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/云原生会议总结.md",
+                "file": "0_inbox/存放目的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/云原生会议总结.md"
+                "file": "0_inbox/存放目的.md"
               }
             }
           },
@@ -208,14 +183,20 @@
   },
   "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
+    "1_project/工作",
+    "2_area/30_工作/01_项目/myss/test1.md",
+    "2_area/30_工作/01_项目/myss/index.md",
+    "1_project/云原生会议总结.md",
+    "1_project/手办退货.md",
+    "3_resource/template/ProjectTodo.md",
+    "2_area/20_IT/04_云原生/云原生&云计算&数字化转型预研.md",
+    "2_area/index.md",
+    "3_resource/web-pages/index.md",
     "3_resource/upload/月亮与六便士.pdf",
     "月亮与六便士.pdf",
-    "1_project/云原生会议总结.md",
-    "2_area/20_IT/04_云原生/云原生&云计算&数字化转型预研.md",
     "2_area/20_IT/04_云原生/IaaS&PaaS&SaaS.md",
     "3_resource/upload/CloudNative.png",
     "0_inbox/存放目的.md",
-    "1_project/手办退货.md",
     "3_resource/upload/micro-habit-mind.png",
     "3_resource/upload/JavaScript.pdf",
     "2_area/20_IT/04_云原生/什么是云原生.md",
@@ -228,13 +209,11 @@
     "0_inbox",
     "index.canvas",
     "2_area/00_健康/index.md",
-    "2_area/30_工作/01_项目/myss/index.md",
     "2_area/30_工作/01_项目/index.md",
     "2_area/30_工作/01_项目/myss",
     "未命名.md",
     "2_area/50_娱乐/02_手办/景品.md",
     "2_area/50_娱乐/02_手办/index.md",
-    "3_resource/web-pages/index.md",
     "4_archive/2023/index.md",
     "technology/index.md",
     "technology/index.canvas",
@@ -244,14 +223,10 @@
     "book-notes/index.canvas",
     "2_area/00_健康/00_理论/index.md",
     "resource/upload/mgthink 1.png",
-    "2_area/60_未来/01_生活方式/index.md",
-    "2_area/60_未来/00_热门行业/index.md",
-    "2_area/50_娱乐/03_VR/index.md",
     "4_archive/2023",
     "3_resource/web-pages",
     "3_resource/upload/BingWallpaper.jpg",
     "3_resource/upload",
-    "2_area/10_哲学&宗教/01_理论",
     "3_resource/upload/mgthink.png",
     "book-notes/BookNotes.canvas",
     "IMG_0207.png",
