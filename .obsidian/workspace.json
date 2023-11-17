@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "404595e9d80e1faf",
+            "id": "7cca8fb989e7e048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_inbox/云原生&云计算&数字化转型预研.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d96fd56e239df87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "404595e9d80e1faf",
+  "active": "9d96fd56e239df87",
   "lastOpenFiles": [
     "3_resource/upload/CloudNative.png",
     "0_inbox/云原生&云计算&数字化转型预研.md",
