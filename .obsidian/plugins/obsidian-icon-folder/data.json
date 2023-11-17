@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#bc2020",
     "recentlyUsedIcons": [
+      "Ti12Hours",
       "Ti3dCubeSphereOff",
       "TiAB",
       "FasArchway",
-      "FabAccusoft",
-      "FabAlipay"
+      "FabAccusoft"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,6 +25,5 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
-  },
-  "0_inbox": "Ti3dCubeSphereOff"
+  }
 }

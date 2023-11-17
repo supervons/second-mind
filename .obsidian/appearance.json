@@ -2,5 +2,7 @@
   "accentColor": "",
   "theme": "moonstone",
   "baseFontSize": 26,
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "textFontFamily": "Menlo",
+  "interfaceFontFamily": "Menlo"
 }
