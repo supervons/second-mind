@@ -1,0 +1,13 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "1_project/云原生会议总结.md": "31e1b3170ceddabe04d6df9fe2ce89ac3504add4d52af643d60ea944230a2527"
+  }
+}

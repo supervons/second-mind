@@ -11,8 +11,12 @@
             "id": "49cb5d7668c8f90a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1_project/云原生会议总结.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_project/云原生会议总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_project/云原生会议总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +115,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_project/云原生会议总结.md"
+              }
             }
           },
           {
@@ -156,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -173,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "7c85c1b9cb6afbf2",
   "lastOpenFiles": [
+    "3_resource/upload/月亮与六便士.pdf",
+    "1_project/云原生会议总结.md",
     "0_inbox/工作",
     "4_archive/2023/工作",
     "2_area/30_工作/02_沟通/index.md",
@@ -185,13 +196,11 @@
     "1_project/工作",
     "2_area/30_工作/01_项目/myss/test1.md",
     "2_area/30_工作/01_项目/myss/index.md",
-    "1_project/云原生会议总结.md",
     "1_project/手办退货.md",
     "3_resource/template/ProjectTodo.md",
     "2_area/20_IT/04_云原生/云原生&云计算&数字化转型预研.md",
     "2_area/index.md",
     "3_resource/web-pages/index.md",
-    "3_resource/upload/月亮与六便士.pdf",
     "月亮与六便士.pdf",
     "2_area/20_IT/04_云原生/IaaS&PaaS&SaaS.md",
     "3_resource/upload/CloudNative.png",
@@ -217,7 +226,6 @@
     "2_area/20_IT/01_泛前端/index.canvas",
     "book-notes/index.canvas",
     "resource/upload/mgthink 1.png",
-    "4_archive/2023",
     "3_resource/upload/BingWallpaper.jpg",
     "3_resource/upload/mgthink.png",
     "book-notes/BookNotes.canvas",

@@ -2,5 +2,7 @@
   "obsidian-git",
   "table-editor-obsidian",
   "calendar",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "file-property-enhancer",
+  "update-time-on-edit"
 ]
