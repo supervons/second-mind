@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 273.5
   },
   "right": {
     "id": "488843dacf52d17f",
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,8 +183,9 @@
   },
   "active": "e78705a104ba0a80",
   "lastOpenFiles": [
-    "1_project/手办退货.md",
+    "3_resource/未命名看板.md",
     "1_project/云原生会议总结.md",
+    "1_project/手办退货.md",
     "3_resource/upload/micro-habit-mind.png",
     "0_inbox/微习惯.md",
     "0_inbox/存放目的.md",
