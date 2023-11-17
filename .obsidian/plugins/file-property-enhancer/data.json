@@ -1,0 +1,14 @@
+{
+  "iconList": [
+    {
+      "name": "updated",
+      "icon": "🕑",
+      "type": "emoji"
+    },
+    {
+      "name": "created",
+      "icon": "🕑",
+      "type": "emoji"
+    }
+  ]
+}
