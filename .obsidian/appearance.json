@@ -3,6 +3,7 @@
   "theme": "moonstone",
   "baseFontSize": 26,
   "cssTheme": "Blue Topaz",
-  "textFontFamily": "Menlo",
-  "interfaceFontFamily": "Menlo"
+  "textFontFamily": "STSong,STHeiti,Monaco,Menlo",
+  "interfaceFontFamily": "Monaco,Menlo,STSong",
+  "monospaceFontFamily": "Menlo,Monaco"
 }
