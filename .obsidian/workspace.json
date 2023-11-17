@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "27af939ca9323f91",
+        "id": "2ea8dc8126db6974",
         "type": "tabs",
         "children": [
           {
-            "id": "afc586ac72d892c1",
+            "id": "49cb5d7668c8f90a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_inbox/存放目的.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/存放目的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/存放目的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0_inbox/存放目的.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,8 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "2d256720795c9fe8",
   "lastOpenFiles": [
+    "2_area/30_工作/02_沟通/index.md",
+    "0_inbox/微习惯.md",
+    "0_inbox/index.md",
+    "0_inbox/芒格经验.md",
+    "0_inbox/存放目的.md",
     "1_project/工作",
     "2_area/30_工作/01_项目/myss/test1.md",
     "2_area/30_工作/01_项目/myss/index.md",
@@ -196,14 +193,12 @@
     "月亮与六便士.pdf",
     "2_area/20_IT/04_云原生/IaaS&PaaS&SaaS.md",
     "3_resource/upload/CloudNative.png",
-    "0_inbox/存放目的.md",
     "3_resource/upload/micro-habit-mind.png",
     "3_resource/upload/JavaScript.pdf",
     "2_area/20_IT/04_云原生/什么是云原生.md",
     "3_resource/web-pages/whatiscloudnative.pdf",
     "2_area/20_IT/04_云原生",
     "未命名看板.md",
-    "2_area/30_工作/00_方法论/微习惯.md",
     "2_area/10_哲学&宗教/01_理论/index.md",
     "2023-11-16.md",
     "0_inbox",
@@ -219,14 +214,11 @@
     "technology/index.canvas",
     "2_area/20_IT/01_泛前端/index.canvas",
     "2_area/20_IT/01_泛前端/TypeScript.md",
-    "2_area/30_工作/00_方法论/芒格经验.md",
     "book-notes/index.canvas",
-    "2_area/00_健康/00_理论/index.md",
     "resource/upload/mgthink 1.png",
     "4_archive/2023",
     "3_resource/web-pages",
     "3_resource/upload/BingWallpaper.jpg",
-    "3_resource/upload",
     "3_resource/upload/mgthink.png",
     "book-notes/BookNotes.canvas",
     "IMG_0207.png",
