@@ -9,6 +9,11 @@
       "name": "created",
       "icon": "🕑",
       "type": "emoji"
+    },
+    {
+      "name": "状态",
+      "icon": "⭕",
+      "type": "emoji"
     }
   ]
 }
