@@ -8,11 +8,13 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "1_project/云原生会议总结.md": "230922d113e68358083c9a2372ebca2376be9a520b406827587d7b59fc4b9d24",
-    "1_project/手办退货.md": "fbac8986d3f109694ba6b6e3b11aacbee777fade8900208b4ee83b16334b10f4",
     "2_area/10_哲学&宗教/index.md": "907b874e3ae14661332a7e66ec34f29d8de1deeb74ae5b802f9150ee62cd8d8e",
-    "0_inbox/破除迷茫，跨学科广度 + 业务深度学习能力.md": "e62b00123b590db21d5777e1ef9dce138e45856d5621e27ac7476437709887e8",
+    "0_inbox/破除迷茫，跨学科广度 + 业务深度学习能力.md": "02d4cb8e3d5c2fc37b1e30a2446d98b7bf596d133fc662f0030efb788bfd0ac4",
     "0_inbox/游戏主机 + 硬件.md": "94edcc6e6980102b5ab518147fd4e7cf9ccca8a58924541963152bccfb5d8f82",
-    "0_inbox/hair.md": "4e028dcf2162f7f88dd3e0d0b0e6a941a4d22e809aeac1bfd0d44e7e0ddceef8"
+    "0_inbox/hair.md": "4e028dcf2162f7f88dd3e0d0b0e6a941a4d22e809aeac1bfd0d44e7e0ddceef8",
+    "4_archive/2023/会议/云原生会议总结.md": "230922d113e68358083c9a2372ebca2376be9a520b406827587d7b59fc4b9d24",
+    "4_archive/2023/手办/手办退货.md": "c36c40c99389b918ccf947e391bfbcd4223ec842e83e9dc10ace623eddbcc4be",
+    "1_project/工作/95387沟通.md": "893fbfd46d3bab66c4bbabb32b5b9c089d6730285e9d9982d2ac55ace1e29136",
+    "2_area/30_工作/01_项目/我的信保.md": "65e056da08008a0ba41e6b26e6f1e9c63b5369c99b9a1ecaa98481f8308402b4"
   }
 }
