@@ -24,6 +24,11 @@
       "name": "所属项目",
       "icon": "🌀",
       "type": "emoji"
+    },
+    {
+      "name": "所属领域",
+      "icon": "🗂️",
+      "type": "emoji"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 created: 2023-11-22T09:25
-updated: 2023-11-22T10:00
+updated: 2023-11-23T09:38
 优先级: 中
 状态: 进行中
 所属项目: "[[软技能导航]]"
@@ -37,6 +37,7 @@ updated: 2023-11-22T10:00
 
 大概是讲算法的好处？
 
+# 
 [源地址](https://braydie.gitbooks.io/how-to-be-a-programmer/content/zh)
 
 [费曼学习法](https://zhuanlan.zhihu.com/p/581553792)
