@@ -23,5 +23,21 @@
       ],
       "key": "K"
     }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
   ]
 }
