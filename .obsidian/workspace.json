@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b419fdf5d7b6bf3a",
+        "id": "836e01564bf22599",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc1598e59d550dd",
+            "id": "4a3ef9619940264f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_project/工作/2023年终总结.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/工作/2023年终总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/工作/2023年终总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_project/工作/2023年终总结.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,44 +173,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcc1598e59d550dd",
+  "active": "4a3ef9619940264f",
   "lastOpenFiles": [
-    "0_inbox/Task-test.md",
-    "1_project/工作/2023年终总结.md",
-    "1_project/工作/年终述职公告.md",
-    "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
     "4_archive/2023/工作/我的SS/2023工作梳理.md",
+    "1_project/工作/262排布.md",
+    "0_inbox/hair.md",
+    "0_inbox/搭建自己的博客作品集.md",
+    "0_inbox/渐进式总结.md",
+    "1_project/单词本.md",
+    "1_project/工作/2023年终总结.md",
+    "1_project/工作/本周上线.md",
+    "4_archive/2023/工作/SS项目组/2023年终述职公告.md",
+    "4_archive/2023/工作/SS项目组",
+    "1_project/工作/团建安排.md",
+    "1_project/工作/Busy计划.md",
+    "4_archive/2023/工作/我的SS/非正式交流.md",
+    "0_inbox/Task-test.md",
+    "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
     "4_archive/2023/工作/我的SS/沟通人员事项.md",
     "1_project/工作/95387沟通.md",
     "4_archive/2023/工作/我的SS",
     "2_area/30_工作/管理.md",
     "4_archive/2023/娱乐/游戏主机 + 硬件.md",
-    "1_project/工作/Busy计划.md",
     "1_project/工作/SS人力项目成本跟踪.md",
     "2023work.xlsx",
     "1_project/工作/2023work.xlsx",
     "3_resource/upload/Pasted image 20231127163248.png",
-    "1_project/工作/团建安排.md",
-    "0_inbox/搭建自己的博客作品集.md",
     "2_area/20_IT/05_软技能/破除迷茫，跨学科广度 + 业务深度学习能力.md",
     "4_archive/2023/娱乐",
     "0_inbox/UML类图学习.md",
-    "0_inbox/hair.md",
     "3_resource/待提升技能归档.md",
     "3_resource/upload/xunfei.png",
     "0_inbox/时间和空间复杂度.md",
     "0_inbox/How to be a programmer.md",
     "3_resource/5000/了解骑马与砍杀.md",
     "3_resource/5000",
-    "0_inbox/渐进式总结.md",
     "2_area/00_健康/index.md",
-    "2_area/00_健康/00_理论/index.md",
-    "2_area/00_健康/01_方法/index.md",
-    "2_area/20_IT/05_软技能/软技能导航.md",
     "2_area/20_IT/05_软技能",
     "3_resource/upload/Pasted image 20231122093610.png",
     "3_resource/upload/Pasted image 20231122093502.png",
-    "3_resource/books/IT/FE/JavaScript.md",
     "1_project/工作/普元汇报日志",
     "index.canvas",
     "4_archive/2023/手办",
@@ -227,7 +220,6 @@
     "3_resource/upload/Pasted image 20231117174719.png",
     "3_resource/upload/Pasted image 20231117173108.png",
     "3_resource/upload/micro-habit-mind.png",
-    "3_resource/upload/月亮与六便士.pdf",
     "3_resource/upload/CloudNative.png",
     "technology/index.canvas",
     "2_area/20_IT/01_泛前端/index.canvas",
