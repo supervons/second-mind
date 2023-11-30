@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/前端管理.md",
+                "file": "1_project/团队氛围.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 267.50390243530273
   },
   "right": {
     "id": "488843dacf52d17f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/前端管理.md",
+                "file": "1_project/团队氛围.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/前端管理.md",
+                "file": "1_project/团队氛围.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/前端管理.md"
+                "file": "1_project/团队氛围.md"
               }
             }
           },
@@ -181,10 +181,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "4a3ef9619940264f",
   "lastOpenFiles": [
-    "0_inbox/Task-test.md",
     "1_project/前端管理.md",
+    "1_project/团队氛围.md",
+    "0_inbox/Task-test.md",
     "1_project/工作/2023年终总结.md",
     "4_archive/2023/工作/我的SS/2023工作梳理.md",
     "1_project/工作/262排布.md",
@@ -215,7 +216,6 @@
     "3_resource/upload/xunfei.png",
     "0_inbox/时间和空间复杂度.md",
     "0_inbox/How to be a programmer.md",
-    "3_resource/5000/了解骑马与砍杀.md",
     "3_resource/5000",
     "2_area/20_IT/05_软技能",
     "3_resource/upload/Pasted image 20231122093610.png",
