@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/How to be a programmer.md",
+                "file": "0_inbox/专业机构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/How to be a programmer.md",
+                "file": "0_inbox/专业机构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/How to be a programmer.md",
+                "file": "0_inbox/专业机构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/How to be a programmer.md"
+                "file": "0_inbox/专业机构.md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "1ca6697a062d4de6",
   "lastOpenFiles": [
+    "0_inbox/开源组件问题.md",
+    "0_inbox/专业机构.md",
+    "0_inbox/How to be a programmer.md",
     "1_project/自媒体.md",
     "1_project/工作/Coremail.md",
     "0_inbox/Task-test.md",
@@ -193,7 +196,6 @@
     "0_inbox/电子.md",
     "0_inbox/hair.md",
     "0_inbox/时间和空间复杂度.md",
-    "0_inbox/How to be a programmer.md",
     "1_project/大前端成长.md",
     "1_project/工作/本周上线.md",
     "1_project/工作/Busy计划.md",
@@ -208,9 +210,7 @@
     "4_archive/2023/工作/我的SS/非正式交流.md",
     "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
     "4_archive/2023/工作/我的SS/沟通人员事项.md",
-    "1_project/工作/95387沟通.md",
     "4_archive/2023/工作/我的SS",
-    "2_area/30_工作/管理.md",
     "2023work.xlsx",
     "1_project/工作/2023work.xlsx",
     "3_resource/upload/Pasted image 20231127163248.png",
