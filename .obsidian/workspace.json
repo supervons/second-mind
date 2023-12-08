@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/readme.md",
+                "file": "1_project/工作/Coremail.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/readme.md",
+                "file": "1_project/工作/Coremail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/readme.md",
+                "file": "1_project/工作/Coremail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/readme.md"
+                "file": "1_project/工作/Coremail.md"
               }
             }
           },
@@ -181,35 +181,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "fb72eebac274eaf6",
   "lastOpenFiles": [
+    "0_inbox/搭建自己的博客作品集.md",
+    "0_inbox/UML类图学习.md",
+    "0_inbox/Task-test.md",
+    "0_inbox/How to be a programmer.md",
+    "0_inbox/hair.md",
+    "0_inbox/专业机构.md",
+    "0_inbox/战未来想法.md",
+    "1_project/readme.md",
     "1_project/大前端成长.md",
     "1_project/单词本.md",
-    "0_inbox/专业机构.md",
     "0_inbox/开源组件问题.md",
-    "0_inbox/How to be a programmer.md",
     "1_project/自媒体.md",
     "1_project/工作/Coremail.md",
-    "0_inbox/Task-test.md",
     "1_project/团队氛围.md",
     "1_project/前端管理.md",
-    "1_project/readme.md",
-    "0_inbox/电子.md",
-    "0_inbox/hair.md",
     "0_inbox/时间和空间复杂度.md",
     "1_project/工作/本周上线.md",
     "1_project/工作/Busy计划.md",
     "1_project/工作/262排布.md",
     "1_project/工作/2023年终总结.md",
     "4_archive/2023/工作/我的SS/2023工作梳理.md",
-    "0_inbox/搭建自己的博客作品集.md",
     "0_inbox/渐进式总结.md",
     "4_archive/2023/工作/SS项目组/2023年终述职公告.md",
     "4_archive/2023/工作/SS项目组",
     "1_project/工作/团建安排.md",
     "4_archive/2023/工作/我的SS/非正式交流.md",
     "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
-    "4_archive/2023/工作/我的SS/沟通人员事项.md",
     "4_archive/2023/工作/我的SS",
     "2023work.xlsx",
     "1_project/工作/2023work.xlsx",
