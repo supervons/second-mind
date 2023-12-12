@@ -163,8 +163,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,9 +182,10 @@
   },
   "active": "0d1e1209373b7467",
   "lastOpenFiles": [
-    "0_inbox/UML类图学习.md",
-    "0_inbox/脚本.md",
     "0_inbox/专业机构.md",
+    "0_inbox/hair.md",
+    "0_inbox/脚本.md",
+    "0_inbox/UML类图学习.md",
     "1_project/自媒体.md",
     "1_project/工作/2023年终总结.md",
     "0_inbox/战未来想法.md",
@@ -194,7 +194,6 @@
     "0_inbox/搭建自己的博客作品集.md",
     "0_inbox/Task-test.md",
     "0_inbox/How to be a programmer.md",
-    "0_inbox/hair.md",
     "1_project/readme.md",
     "1_project/大前端成长.md",
     "1_project/单词本.md",
