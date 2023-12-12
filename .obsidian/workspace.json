@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/时间和空间复杂度.md",
+                "file": "4_archive/2023/娱乐/游戏主机 + 硬件.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/时间和空间复杂度.md",
+                "file": "4_archive/2023/娱乐/游戏主机 + 硬件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/时间和空间复杂度.md",
+                "file": "4_archive/2023/娱乐/游戏主机 + 硬件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/时间和空间复杂度.md"
+                "file": "4_archive/2023/娱乐/游戏主机 + 硬件.md"
               }
             }
           },
@@ -196,17 +196,20 @@
   },
   "active": "841eb29afbce8537",
   "lastOpenFiles": [
+    "2_area/50_娱乐/00_游戏/index.md",
+    "4_archive/2023/娱乐/游戏主机 + 硬件.md",
+    "0_inbox/Task-test.md",
+    "0_inbox/战未来想法.md",
+    "0_inbox/专业机构.md",
+    "0_inbox/时间和空间复杂度.md",
     "0_inbox/开源组件问题.md",
     "0_inbox/脚本.md",
     "2_area/20_IT/05_软技能/破除迷茫，跨学科广度 + 业务深度学习能力.md",
     "2_area/20_IT/05_软技能/软技能导航.md",
     "0_inbox/UML类图学习.md",
-    "0_inbox/Task-test.md",
-    "0_inbox/专业机构.md",
     "0_inbox/hair.md",
     "1_project/自媒体.md",
     "1_project/工作/2023年终总结.md",
-    "0_inbox/战未来想法.md",
     "1_project/工作/95387沟通.md",
     "1_project/工作/Coremail.md",
     "0_inbox/搭建自己的博客作品集.md",
@@ -216,12 +219,9 @@
     "1_project/单词本.md",
     "1_project/团队氛围.md",
     "1_project/前端管理.md",
-    "0_inbox/时间和空间复杂度.md",
     "1_project/工作/本周上线.md",
     "1_project/工作/Busy计划.md",
     "1_project/工作/262排布.md",
-    "4_archive/2023/工作/我的SS/2023工作梳理.md",
-    "0_inbox/渐进式总结.md",
     "4_archive/2023/工作/SS项目组",
     "4_archive/2023/工作/我的SS",
     "2023work.xlsx",
