@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
+                "file": "1_project/工作/FY招投标.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
+                "file": "1_project/工作/FY招投标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
+                "file": "1_project/工作/FY招投标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md"
+                "file": "1_project/工作/FY招投标.md"
               }
             }
           },
@@ -181,11 +181,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "0d1e1209373b7467",
   "lastOpenFiles": [
+    "0_inbox/战未来想法.md",
+    "1_project/工作/FY招投标.md",
+    "1_project/工作/95387沟通.md",
+    "1_project/工作/2023年终总结.md",
+    "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
     "3_resource/books/IT/Work/简历优化.pdf",
     "3_resource/books/IT/Work",
-    "0_inbox/战未来想法.md",
     "0_inbox/时间和空间复杂度.md",
     "0_inbox/开源组件问题.md",
     "0_inbox/脚本.md",
@@ -198,8 +202,6 @@
     "2_area/20_IT/05_软技能/软技能导航.md",
     "0_inbox/hair.md",
     "1_project/自媒体.md",
-    "1_project/工作/2023年终总结.md",
-    "1_project/工作/95387沟通.md",
     "1_project/工作/Coremail.md",
     "0_inbox/搭建自己的博客作品集.md",
     "0_inbox/How to be a programmer.md",
@@ -209,7 +211,6 @@
     "1_project/团队氛围.md",
     "1_project/前端管理.md",
     "1_project/工作/本周上线.md",
-    "1_project/工作/Busy计划.md",
     "4_archive/2023/工作/SS项目组",
     "4_archive/2023/工作/我的SS",
     "2023work.xlsx",
@@ -223,7 +224,6 @@
     "3_resource/upload/Pasted image 20231122093502.png",
     "1_project/工作/普元汇报日志",
     "index.canvas",
-    "4_archive/2023/手办",
     "3_resource/upload/Pasted image 20231117174931.png",
     "3_resource/upload/Pasted image 20231117174719.png",
     "3_resource/upload/Pasted image 20231117173108.png",
