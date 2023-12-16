@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e9f0fb0cc158f1a",
+        "id": "58a3812dcad57208",
         "type": "tabs",
         "children": [
           {
-            "id": "0d1e1209373b7467",
+            "id": "ce710230c4df577d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/战未来想法.md",
+                "file": "0_inbox/装盘计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/战未来想法.md",
+                "file": "0_inbox/装盘计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/战未来想法.md",
+                "file": "0_inbox/装盘计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/战未来想法.md"
+                "file": "0_inbox/装盘计划.md"
               }
             }
           },
@@ -181,10 +181,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d1e1209373b7467",
+  "active": "ce710230c4df577d",
   "lastOpenFiles": [
-    "0_inbox/战未来想法.md",
+    "0_inbox/Task-test.md",
+    "0_inbox/装盘计划.md",
     "1_project/工作/FY招投标.md",
+    "1_project/工作/未命名.md",
+    "0_inbox/战未来想法.md",
     "1_project/工作/95387沟通.md",
     "1_project/工作/2023年终总结.md",
     "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
@@ -196,7 +199,6 @@
     "0_inbox/UML类图学习.md",
     "4_archive/2023/娱乐/游戏主机 + 硬件.md",
     "2_area/50_娱乐/00_游戏/index.md",
-    "0_inbox/Task-test.md",
     "0_inbox/专业机构.md",
     "2_area/20_IT/05_软技能/破除迷茫，跨学科广度 + 业务深度学习能力.md",
     "2_area/20_IT/05_软技能/软技能导航.md",
@@ -209,8 +211,6 @@
     "1_project/大前端成长.md",
     "1_project/单词本.md",
     "1_project/团队氛围.md",
-    "1_project/前端管理.md",
-    "1_project/工作/本周上线.md",
     "4_archive/2023/工作/SS项目组",
     "4_archive/2023/工作/我的SS",
     "2023work.xlsx",
