@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff4bdda4ab2421ec",
+        "id": "1c8092b37f116ce2",
         "type": "tabs",
         "children": [
           {
-            "id": "4f718de30a2260dc",
+            "id": "46281c7ad1d59886",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f4314247315193d",
+  "active": "46281c7ad1d59886",
   "lastOpenFiles": [
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
