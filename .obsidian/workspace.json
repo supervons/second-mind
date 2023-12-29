@@ -143,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -183,6 +185,7 @@
   },
   "active": "4d749da8629f4d7d",
   "lastOpenFiles": [
+    "0_inbox/hair.md",
     "0_inbox/段子.md",
     "0_inbox/UML类图学习.md",
     "3_resource/upload/Pasted image 20231204224147.png",
@@ -206,7 +209,6 @@
     "0_inbox/开源组件问题.md",
     "0_inbox/时间和空间复杂度.md",
     "0_inbox/Task-test.md",
-    "0_inbox/hair.md",
     "0_inbox/装盘计划.md",
     "1_project/工作/FY招投标.md",
     "1_project/工作/未命名.md",
