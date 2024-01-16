@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04600347caf170a5",
+        "id": "13754bc50de3a9f4",
         "type": "tabs",
         "children": [
           {
-            "id": "95d640d31820a6dd",
+            "id": "b6562aa0c84e00a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,14 +183,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "b6562aa0c84e00a4",
   "lastOpenFiles": [
+    "3_resource/5000/了解骑马与砍杀.md",
+    "1_project/工作/2023年终总结.md",
     "4_archive/2024/工作",
     "4_archive/2024",
     "4_archive/2023/工作/我的SS/95387沟通.md",
     "1_project/工作/本周上线.md",
     "1_project/工作/262排布.md",
-    "1_project/工作/2023年终总结.md",
     "1_project/工作/FY招投标.md",
     "1_project/工作/Coremail.md",
     "1_project/工作/Busy计划.md",
@@ -228,7 +229,6 @@
     "4_archive/2023/娱乐",
     "3_resource/upload/xunfei.png",
     "3_resource/5000",
-    "2_area/20_IT/05_软技能",
     "3_resource/upload/Pasted image 20231122093610.png",
     "3_resource/upload/Pasted image 20231122093502.png",
     "index.canvas",
