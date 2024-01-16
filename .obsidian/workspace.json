@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7482c787e2b869b6",
+        "id": "04600347caf170a5",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd2ad530d5da9b8",
+            "id": "95d640d31820a6dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_area/60_未来/00_热门行业/ShortVideo.md",
+                "file": "1_project/工作/2023年终总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_area/60_未来/00_热门行业/ShortVideo.md",
+                "file": "1_project/工作/2023年终总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_area/60_未来/00_热门行业/ShortVideo.md",
+                "file": "1_project/工作/2023年终总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_area/60_未来/00_热门行业/ShortVideo.md"
+                "file": "1_project/工作/2023年终总结.md"
               }
             }
           },
@@ -183,10 +183,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bd2ad530d5da9b8",
+  "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
-    "2_area/60_未来/00_热门行业/index.md",
+    "4_archive/2024/工作",
+    "4_archive/2024",
+    "4_archive/2023/工作/我的SS/95387沟通.md",
+    "1_project/工作/本周上线.md",
+    "1_project/工作/262排布.md",
+    "1_project/工作/2023年终总结.md",
+    "1_project/工作/FY招投标.md",
+    "1_project/工作/Coremail.md",
+    "1_project/工作/Busy计划.md",
+    "1_project/工作/SS人力项目成本跟踪.md",
+    "0_inbox/工作/意义.md",
+    "3_resource/books/IT/Work/简历优化.pdf",
+    "3_resource/books/IT/FE/JavaScript.md",
     "2_area/60_未来/00_热门行业/ShortVideo.md",
+    "2_area/60_未来/00_热门行业/index.md",
     "2_area/60_未来/index.md",
     "2_area/60_未来/01_生活方式/index.md",
     "2_area/50_娱乐/02_手办/景品.md",
@@ -200,24 +213,12 @@
     "2_area/30_工作/管理.md",
     "0_inbox/专业机构.md",
     "0_inbox/渐进式总结.md",
-    "0_inbox/段子.md",
-    "0_inbox/搭建自己的博客作品集.md",
-    "0_inbox/UML类图学习.md",
-    "0_inbox/开源组件问题.md",
-    "0_inbox/脚本.md",
-    "0_inbox/战未来想法.md",
-    "0_inbox/装盘计划.md",
-    "0_inbox/How to be a programmer.md",
-    "装盘计划.md",
-    "2_area/30_工作/01_项目/ZT保密项目.md",
-    "0_inbox/工作/意义.md",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
     "3_resource/upload/Pasted image 20231204222604.png",
     "3_resource/upload/Pasted image 20231204222009.png",
     "3_resource/upload/Pasted image 20231204221937.png",
     "3_resource/upload/Pasted image 20231204221527.png",
-    "3_resource/books/IT/Work/简历优化.pdf",
     "3_resource/books/IT/Work",
     "4_archive/2023/工作/SS项目组",
     "4_archive/2023/工作/我的SS",
@@ -230,7 +231,6 @@
     "2_area/20_IT/05_软技能",
     "3_resource/upload/Pasted image 20231122093610.png",
     "3_resource/upload/Pasted image 20231122093502.png",
-    "1_project/工作/普元汇报日志",
     "index.canvas",
     "technology/index.canvas",
     "2_area/20_IT/01_泛前端/index.canvas",
