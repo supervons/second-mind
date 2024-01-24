@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/技术架构图.md",
+                "file": "0_inbox/头脑风暴学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/技术架构图.md",
+                "file": "0_inbox/头脑风暴学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/技术架构图.md",
+                "file": "0_inbox/头脑风暴学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/技术架构图.md"
+                "file": "0_inbox/头脑风暴学习.md"
               }
             }
           },
@@ -185,9 +185,15 @@
   },
   "active": "392718cb74d9e592",
   "lastOpenFiles": [
-    "3_resource/upload/Pasted image 20240119163711.png",
     "0_inbox/战未来想法.md",
+    "0_inbox/头脑风暴学习.md",
+    "0_inbox/专业机构.md",
+    "0_inbox/段子.md",
     "0_inbox/技术架构图.md",
+    "0_inbox/渐进式总结.md",
+    "0_inbox/脚本.md",
+    "0_inbox/开源组件问题.md",
+    "3_resource/upload/Pasted image 20240119163711.png",
     "1_project/工作/2023年终总结.md",
     "3_resource/5000/了解骑马与砍杀.md",
     "4_archive/2024/工作",
@@ -209,11 +215,6 @@
     "2_area/50_娱乐/02_手办/景品.md",
     "2_area/50_娱乐/02_手办/index.md",
     "2_area/50_娱乐/01_电影/index.md",
-    "2_area/50_娱乐/00_游戏/index.md",
-    "2_area/40_生活/00_常识/index.md",
-    "2_area/30_工作/01_项目/DevOps.md",
-    "2_area/30_工作/01_项目/我的SS.md",
-    "2_area/30_工作/02_沟通/关系.md",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
     "3_resource/upload/Pasted image 20231204222604.png",
@@ -230,7 +231,6 @@
     "3_resource/upload/xunfei.png",
     "3_resource/5000",
     "3_resource/upload/Pasted image 20231122093610.png",
-    "3_resource/upload/Pasted image 20231122093502.png",
     "index.canvas",
     "technology/index.canvas",
     "2_area/20_IT/01_泛前端/index.canvas",
