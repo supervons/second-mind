@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/MakeEpic.md",
+                "file": "4_archive/2023/年会/段子.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/MakeEpic.md",
+                "file": "4_archive/2023/年会/段子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/MakeEpic.md",
+                "file": "4_archive/2023/年会/段子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/MakeEpic.md"
+                "file": "4_archive/2023/年会/段子.md"
               }
             }
           },
@@ -183,15 +183,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "392718cb74d9e592",
+  "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
-    "0_inbox/hair.md",
     "0_inbox/MakeEpic.md",
+    "4_archive/2023/年会",
+    "0_inbox/hair.md",
     "0_inbox/搭建自己的博客作品集.md",
     "0_inbox/战未来想法.md",
     "0_inbox/头脑风暴学习.md",
     "0_inbox/专业机构.md",
-    "0_inbox/段子.md",
+    "4_archive/2023/年会/段子.md",
     "0_inbox/技术架构图.md",
     "0_inbox/渐进式总结.md",
     "0_inbox/脚本.md",
@@ -214,7 +215,6 @@
     "2_area/60_未来/00_热门行业/ShortVideo.md",
     "2_area/60_未来/00_热门行业/index.md",
     "2_area/60_未来/index.md",
-    "2_area/60_未来/01_生活方式/index.md",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
     "3_resource/upload/Pasted image 20231204222604.png",
@@ -229,7 +229,6 @@
     "3_resource/upload/Pasted image 20231127163248.png",
     "4_archive/2023/娱乐",
     "3_resource/upload/xunfei.png",
-    "3_resource/5000",
     "3_resource/upload/Pasted image 20231122093610.png",
     "index.canvas",
     "technology/index.canvas",
