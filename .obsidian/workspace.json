@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01ededde7807f568",
+        "id": "ee5c8f27d8887c79",
         "type": "tabs",
         "children": [
           {
-            "id": "98dffd7e65dca386",
+            "id": "75134b754e95fc75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/静态资源缓存处理.md",
+                "file": "1_project/工作/Busy计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/静态资源缓存处理.md",
+                "file": "1_project/工作/Busy计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/静态资源缓存处理.md",
+                "file": "1_project/工作/Busy计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/静态资源缓存处理.md"
+                "file": "1_project/工作/Busy计划.md"
               }
             }
           },
@@ -183,16 +183,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98dffd7e65dca386",
+  "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
-    "4_archive/2024/日志/1月/01-30.md",
+    "3_resource/books/IT/FE/RN/RN技术详解.pdf",
+    "3_resource/books/IT/FE/RN",
+    "1_project/readme.md",
+    "1_project/工作/Busy计划.md",
+    "1_project/团队氛围.md",
+    "1_project/工作/2023年终总结.md",
+    "1_project/自媒体.md",
+    "1_project/工作/本周上线.md",
+    "1_project/工作/262排布.md",
+    "1_project/工作/SS人力项目成本跟踪.md",
     "0_inbox/静态资源缓存处理.md",
+    "4_archive/2024/日志/1月/01-30.md",
     "4_archive/2024/日志/1月",
     "4_archive/2024/日志",
-    "1_project/自媒体.md",
     "4_archive/2023/年会/段子.md",
     "4_archive/2023/年会",
-    "1_project/readme.md",
     "0_inbox/MakeEpic.md",
     "0_inbox/hair.md",
     "0_inbox/搭建自己的博客作品集.md",
@@ -205,18 +213,11 @@
     "0_inbox/脚本.md",
     "0_inbox/开源组件问题.md",
     "3_resource/upload/Pasted image 20240119163711.png",
-    "1_project/工作/2023年终总结.md",
     "3_resource/5000/了解骑马与砍杀.md",
     "4_archive/2024/工作",
     "4_archive/2024",
     "4_archive/2023/工作/我的SS/95387沟通.md",
-    "1_project/工作/本周上线.md",
-    "1_project/工作/262排布.md",
     "1_project/工作/FY招投标.md",
-    "1_project/工作/Coremail.md",
-    "1_project/工作/Busy计划.md",
-    "1_project/工作/SS人力项目成本跟踪.md",
-    "0_inbox/工作/意义.md",
     "3_resource/books/IT/Work/简历优化.pdf",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
@@ -227,7 +228,6 @@
     "3_resource/books/IT/Work",
     "4_archive/2023/工作/SS项目组",
     "4_archive/2023/工作/我的SS",
-    "2023work.xlsx",
     "3_resource/upload/Pasted image 20231127163248.png",
     "3_resource/upload/xunfei.png",
     "3_resource/upload/Pasted image 20231122093610.png",
