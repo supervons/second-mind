@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_archive/2024/日志/1月/01-30.md",
+                "file": "0_inbox/静态资源缓存处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.50390243530273
+    "width": 236.50390243530273
   },
   "right": {
     "id": "488843dacf52d17f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_archive/2024/日志/1月/01-30.md",
+                "file": "0_inbox/静态资源缓存处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_archive/2024/日志/1月/01-30.md",
+                "file": "0_inbox/静态资源缓存处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_archive/2024/日志/1月/01-30.md"
+                "file": "0_inbox/静态资源缓存处理.md"
               }
             }
           },
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,9 +185,10 @@
   },
   "active": "98dffd7e65dca386",
   "lastOpenFiles": [
+    "4_archive/2024/日志/1月/01-30.md",
+    "0_inbox/静态资源缓存处理.md",
     "4_archive/2024/日志/1月",
     "4_archive/2024/日志",
-    "4_archive/2024/日志/1月/01-30.md",
     "1_project/自媒体.md",
     "4_archive/2023/年会/段子.md",
     "4_archive/2023/年会",
@@ -227,7 +228,6 @@
     "4_archive/2023/工作/SS项目组",
     "4_archive/2023/工作/我的SS",
     "2023work.xlsx",
-    "1_project/工作/2023work.xlsx",
     "3_resource/upload/Pasted image 20231127163248.png",
     "3_resource/upload/xunfei.png",
     "3_resource/upload/Pasted image 20231122093610.png",
