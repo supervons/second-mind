@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee5c8f27d8887c79",
+        "id": "547bd25bb30acb06",
         "type": "tabs",
         "children": [
           {
-            "id": "75134b754e95fc75",
+            "id": "671dc0a6383383cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/工作/Busy计划.md",
+                "file": "1_project/工作/SDK对接.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/工作/Busy计划.md",
+                "file": "1_project/工作/SDK对接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/工作/Busy计划.md",
+                "file": "1_project/工作/SDK对接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/工作/Busy计划.md"
+                "file": "1_project/工作/SDK对接.md"
               }
             }
           },
@@ -185,10 +185,20 @@
   },
   "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
+    "3_resource/books/Think/对话JLY.pdf",
+    "3_resource/books/Think",
+    "0_inbox/工作/意义.md",
+    "1_project/工作/SDK对接.md",
+    "0_inbox/脚本.md",
+    "0_inbox/头脑风暴学习.md",
+    "0_inbox/战未来想法.md",
+    "0_inbox/MakeEpic.md",
+    "0_inbox/Task-test.md",
+    "0_inbox/UML类图学习.md",
     "3_resource/books/IT/FE/RN/RN技术详解.pdf",
+    "1_project/工作/Busy计划.md",
     "3_resource/books/IT/FE/RN",
     "1_project/readme.md",
-    "1_project/工作/Busy计划.md",
     "1_project/团队氛围.md",
     "1_project/工作/2023年终总结.md",
     "1_project/自媒体.md",
@@ -201,23 +211,15 @@
     "4_archive/2024/日志",
     "4_archive/2023/年会/段子.md",
     "4_archive/2023/年会",
-    "0_inbox/MakeEpic.md",
     "0_inbox/hair.md",
     "0_inbox/搭建自己的博客作品集.md",
-    "0_inbox/战未来想法.md",
-    "0_inbox/头脑风暴学习.md",
     "0_inbox/专业机构.md",
     "0_inbox/段子.md",
     "0_inbox/技术架构图.md",
     "0_inbox/渐进式总结.md",
-    "0_inbox/脚本.md",
-    "0_inbox/开源组件问题.md",
     "3_resource/upload/Pasted image 20240119163711.png",
-    "3_resource/5000/了解骑马与砍杀.md",
     "4_archive/2024/工作",
     "4_archive/2024",
-    "4_archive/2023/工作/我的SS/95387沟通.md",
-    "1_project/工作/FY招投标.md",
     "3_resource/books/IT/Work/简历优化.pdf",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
@@ -226,8 +228,6 @@
     "3_resource/upload/Pasted image 20231204221937.png",
     "3_resource/upload/Pasted image 20231204221527.png",
     "3_resource/books/IT/Work",
-    "4_archive/2023/工作/SS项目组",
-    "4_archive/2023/工作/我的SS",
     "3_resource/upload/Pasted image 20231127163248.png",
     "3_resource/upload/xunfei.png",
     "3_resource/upload/Pasted image 20231122093610.png",
