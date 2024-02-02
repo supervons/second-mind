@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6b51d90024e97272",
+        "id": "664bee3186194e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "197386722803605c",
+            "id": "932c6aae3b17cf5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0_inbox/hair.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0_inbox/hair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0_inbox/hair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0_inbox/hair.md"
+              }
             }
           },
           {
@@ -175,8 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "197386722803605c",
+  "active": "932c6aae3b17cf5d",
   "lastOpenFiles": [
+    "0_inbox/装盘计划.md",
+    "0_inbox/渐进式总结.md",
+    "0_inbox/头脑风暴学习.md",
+    "0_inbox/专业机构.md",
     "1_project/大前端成长.md",
     "1_project/单词本.md",
     "1_project/前端管理.md",
@@ -192,7 +204,6 @@
     "3_resource/books/Think",
     "0_inbox/工作/意义.md",
     "0_inbox/脚本.md",
-    "0_inbox/头脑风暴学习.md",
     "0_inbox/战未来想法.md",
     "0_inbox/MakeEpic.md",
     "0_inbox/Task-test.md",
@@ -204,12 +215,9 @@
     "1_project/自媒体.md",
     "1_project/工作/262排布.md",
     "0_inbox/静态资源缓存处理.md",
-    "4_archive/2024/日志/1月/01-30.md",
     "4_archive/2024/日志/1月",
     "4_archive/2024/日志",
-    "4_archive/2023/年会/段子.md",
     "4_archive/2023/年会",
-    "0_inbox/hair.md",
     "3_resource/upload/Pasted image 20240119163711.png",
     "4_archive/2024/工作",
     "4_archive/2024",
