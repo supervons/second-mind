@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "664bee3186194e5e",
+        "id": "233eddfbf642d521",
         "type": "tabs",
         "children": [
           {
-            "id": "932c6aae3b17cf5d",
+            "id": "ed36c03557b5e9c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/hair.md",
+                "file": "0_inbox/工作/群聊天信息解析.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/hair.md",
+                "file": "0_inbox/工作/群聊天信息解析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/hair.md",
+                "file": "0_inbox/工作/群聊天信息解析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/hair.md"
+                "file": "0_inbox/工作/群聊天信息解析.md"
               }
             }
           },
@@ -183,8 +183,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "932c6aae3b17cf5d",
+  "active": "ed36c03557b5e9c2",
   "lastOpenFiles": [
+    "0_inbox/工作/群聊天信息解析.md",
+    "0_inbox/hair.md",
     "0_inbox/装盘计划.md",
     "0_inbox/渐进式总结.md",
     "0_inbox/头脑风暴学习.md",
@@ -213,8 +215,6 @@
     "1_project/readme.md",
     "1_project/团队氛围.md",
     "1_project/自媒体.md",
-    "1_project/工作/262排布.md",
-    "0_inbox/静态资源缓存处理.md",
     "4_archive/2024/日志/1月",
     "4_archive/2024/日志",
     "4_archive/2023/年会",
