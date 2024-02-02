@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "547bd25bb30acb06",
+        "id": "6b51d90024e97272",
         "type": "tabs",
         "children": [
           {
-            "id": "671dc0a6383383cd",
+            "id": "197386722803605c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_project/工作/SDK对接.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/工作/SDK对接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/工作/SDK对接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_project/工作/SDK对接.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,12 +175,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "197386722803605c",
   "lastOpenFiles": [
+    "1_project/大前端成长.md",
+    "1_project/单词本.md",
+    "1_project/前端管理.md",
+    "1_project/工作/SS人力项目成本跟踪.md",
+    "1_project/工作/Coremail.md",
+    "1_project/工作/Busy计划.md",
+    "1_project/工作/SDK对接.md",
+    "1_project/工作/本周上线.md",
+    "4_archive/2023/工作/SS项目组/2023年终总结.md",
+    "4_archive/2023/工作/SS项目组/2023年终述职公告.md",
+    "1_project/工作/FY招投标.md",
     "3_resource/books/Think/对话JLY.pdf",
     "3_resource/books/Think",
     "0_inbox/工作/意义.md",
-    "1_project/工作/SDK对接.md",
     "0_inbox/脚本.md",
     "0_inbox/头脑风暴学习.md",
     "0_inbox/战未来想法.md",
@@ -196,15 +198,11 @@
     "0_inbox/Task-test.md",
     "0_inbox/UML类图学习.md",
     "3_resource/books/IT/FE/RN/RN技术详解.pdf",
-    "1_project/工作/Busy计划.md",
     "3_resource/books/IT/FE/RN",
     "1_project/readme.md",
     "1_project/团队氛围.md",
-    "1_project/工作/2023年终总结.md",
     "1_project/自媒体.md",
-    "1_project/工作/本周上线.md",
     "1_project/工作/262排布.md",
-    "1_project/工作/SS人力项目成本跟踪.md",
     "0_inbox/静态资源缓存处理.md",
     "4_archive/2024/日志/1月/01-30.md",
     "4_archive/2024/日志/1月",
@@ -212,11 +210,6 @@
     "4_archive/2023/年会/段子.md",
     "4_archive/2023/年会",
     "0_inbox/hair.md",
-    "0_inbox/搭建自己的博客作品集.md",
-    "0_inbox/专业机构.md",
-    "0_inbox/段子.md",
-    "0_inbox/技术架构图.md",
-    "0_inbox/渐进式总结.md",
     "3_resource/upload/Pasted image 20240119163711.png",
     "4_archive/2024/工作",
     "4_archive/2024",
@@ -227,7 +220,6 @@
     "3_resource/upload/Pasted image 20231204222009.png",
     "3_resource/upload/Pasted image 20231204221937.png",
     "3_resource/upload/Pasted image 20231204221527.png",
-    "3_resource/books/IT/Work",
     "3_resource/upload/Pasted image 20231127163248.png",
     "3_resource/upload/xunfei.png",
     "3_resource/upload/Pasted image 20231122093610.png",
