@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "2_area/10_哲学&宗教/index.md": "907b874e3ae14661332a7e66ec34f29d8de1deeb74ae5b802f9150ee62cd8d8e",
+    "2_area/10_哲学&宗教/index.md": "e40c05870d9abe25a0f12f15cf2086d07281b27b01bc89c3dfa598ab45c3f265",
     "0_inbox/hair.md": "9f66f5af89988fff4cfff3b98b1a9e6df624710cb2df1c49b20a00dd31706936",
     "4_archive/2023/会议/云原生会议总结.md": "230922d113e68358083c9a2372ebca2376be9a520b406827587d7b59fc4b9d24",
     "4_archive/2023/手办/手办退货.md": "c36c40c99389b918ccf947e391bfbcd4223ec842e83e9dc10ace623eddbcc4be",
@@ -62,6 +62,15 @@
     "0_inbox/工作/群聊天信息解析.md": "e0796bb2cbc8ee8cafa79edf2811623d9f044f504c8a29a39008161c800cd042",
     "2_area/50_娱乐/00_游戏/休闲类/幻兽帕鲁.md": "338b39517d7049eed4268f8af725147a53c039607d6b8f6798b0df6bd7c7cb46",
     "2_area/50_娱乐/00_游戏/动作类/Hi-Fi RUSH.md": "52461cd982c21b05104f8317b7d62fdb13f8d2e7340ec46251a9a155b741c30f",
-    "2_area/50_娱乐/00_游戏/动作类/古墓丽影20周年纪念.md": "b20ba8351de791a69e14859eee49e212b192816e33711c79991a765af033404e"
+    "2_area/50_娱乐/00_游戏/动作类/古墓丽影20周年纪念.md": "b20ba8351de791a69e14859eee49e212b192816e33711c79991a765af033404e",
+    "2_area/10_哲学&宗教/01_理论/美学/读《艺术趣味》有感.md": "55950b4b3eaad5f105e41042b786b9cb4cb8b9cd8415d9dbf74bdcc7e052ff52",
+    "3_resource/people/美学/丰子恺.md": "686933b0f251253d87edf0f61e1f6a80c92cb94568f40429a7a0c6859a82d3ce",
+    "2_area/10_哲学&宗教/01_理论/index.md": "69fae686304d89c5dddadd29379bef4aad7db7124c0272348cb83484c9a94488",
+    "3_resource/people/美学/阿尔弗雷德·利克沃克.md": "9dd3a5ab392621aa2eb59045f21202461f013e9b6a0ad19d5186b4a88709ce5c",
+    "3_resource/people/美学/艺术展/日展.md": "9fa03e84ccd978fc8a033b84d4d93b9159f969f8e560e089966fca4bd2200d56",
+    "未命名看板.md": "c9230f91fb2ea583415584525f1e1df650cf6a08819838b4cef55e4044a3b526",
+    "未命名看板 1.md": "c9230f91fb2ea583415584525f1e1df650cf6a08819838b4cef55e4044a3b526",
+    "3_resource/people/美学/艺术起源的五种主要学说.md": "07bc9b8fd6b05130c9b7291f97f050d7a8297e72b7f84f78184a4a63503912f1",
+    "3_resource/web-pages/执行力/未命名.md": "8c229e4bb5d5a57598d7de1c34fa58b6e10a8d37544d2f9edfe49ac4eb8d3dd6"
   }
 }
