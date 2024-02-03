@@ -3,12 +3,12 @@
   "table-editor-obsidian",
   "calendar",
   "obsidian-kanban",
-  "update-time-on-edit",
   "obsidian-icon-folder",
   "file-property-enhancer",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "file-explorer-note-count",
   "workbooks",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "update-time-on-edit"
 ]
