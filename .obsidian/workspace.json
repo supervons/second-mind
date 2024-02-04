@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5c4ecce4c292ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_area/10_哲学&宗教/01_理论/美学/读《艺术趣味》有感.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5bc22c3788da53d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_resource/people/美学/艺术展/日展.md",
+                "file": "0_inbox/前端基础设施参考.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_area/10_哲学&宗教/01_理论/美学/读《艺术趣味》有感.md",
+                "file": "0_inbox/前端基础设施参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_area/10_哲学&宗教/01_理论/美学/读《艺术趣味》有感.md",
+                "file": "0_inbox/前端基础设施参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_area/10_哲学&宗教/01_理论/美学/读《艺术趣味》有感.md"
+                "file": "0_inbox/前端基础设施参考.md"
               }
             }
           },
@@ -195,15 +183,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5c4ecce4c292ea6",
+  "active": "5bc22c3788da53d5",
   "lastOpenFiles": [
-    "3_resource/web-pages/执行力/未命名.md",
+    "3_resource/upload/Pasted image 20240204092621.png",
+    "0_inbox/脚本.md",
+    "0_inbox/前端基础设施参考.md",
+    "3_resource/people/美学/艺术展/日展.md",
+    "0_inbox/hair.md",
     "2_area/10_哲学&宗教/01_理论/美学/读《艺术趣味》有感.md",
+    "3_resource/web-pages/执行力/未命名.md",
     "3_resource/web-pages/执行力",
     "3_resource/people/美学/艺术起源的五种主要学说.md",
     "未命名看板 1.md",
     "未命名看板.md",
-    "3_resource/people/美学/艺术展/日展.md",
     "3_resource/people/美学/艺术展",
     "3_resource/people/美学/阿尔弗雷德·利克沃克.md",
     "3_resource/people/美学/丰子恺.md",
@@ -226,11 +218,7 @@
     "1_project/自媒体.md",
     "0_inbox/头脑风暴学习.md",
     "0_inbox/装盘计划.md",
-    "0_inbox/搜索法.md",
-    "0_inbox/开源组件问题.md",
-    "3_resource/5000/了解骑马与砍杀.md",
     "3_resource/books/Think/对话JLY.pdf",
-    "2_area/10_哲学&宗教/00_思想/index.md",
     "3_resource/books/Think",
     "3_resource/books/IT/FE/RN/RN技术详解.pdf",
     "3_resource/upload/Pasted image 20240119163711.png",
