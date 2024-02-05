@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
+                "file": "1_project/工作/打包原理技术分享/总体.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
+                "file": "1_project/工作/打包原理技术分享/总体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
+                "file": "1_project/工作/打包原理技术分享/总体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md"
+                "file": "1_project/工作/打包原理技术分享/总体.md"
               }
             }
           },
@@ -183,10 +183,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b1665cbf6469f8b",
+  "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
-    "3_resource/books/IT/Package/Android.md",
+    "1_project/自媒体.md",
+    "1_project/工作/打包原理技术分享/总体.md",
+    "1_project/工作/打包原理技术分享",
+    "1_project/readme.md",
     "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
+    "1_project/未命名",
+    "3_resource/books/IT/Package/Android.md",
     "1_project/PARA学习",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/FE/RN/RN技术详解.pdf",
@@ -215,15 +220,10 @@
     "3_resource/upload/Pasted image 20240204092621.png",
     "3_resource/people/美学/艺术展/日展.md",
     "2_area/10_哲学&宗教/01_理论/美学/读《艺术趣味》有感.md",
-    "3_resource/web-pages/执行力/未命名.md",
     "3_resource/web-pages/执行力",
-    "3_resource/people/美学/艺术起源的五种主要学说.md",
-    "未命名看板 1.md",
     "3_resource/people/美学/艺术展",
     "3_resource/people/美学",
     "3_resource/people",
-    "2_area/10_哲学&宗教/01_理论/美学",
-    "2_area/50_娱乐/00_游戏/动作类",
     "3_resource/upload/Pasted image 20240119163711.png",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
