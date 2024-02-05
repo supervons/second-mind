@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e0b547ab534219f",
+        "id": "fe20285319871a49",
         "type": "tabs",
         "children": [
           {
-            "id": "63f4e9673e155448",
+            "id": "8bfea3524e3e4e96",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -181,10 +181,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63f4e9673e155448",
+  "active": "8bfea3524e3e4e96",
   "lastOpenFiles": [
-    "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
+    "1_project/博客搭建/博客搭建总览.md",
     "cockpit.md",
+    "1_project/工作/打包原理技术分享/总体.md",
+    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
+    "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
+    "1_project/博客搭建",
     "1_project/ReactNative0.70升级",
     "打包技术分享.md",
     "index.canvas",
@@ -199,11 +203,9 @@
     "0_inbox/团队氛围.md",
     "0_inbox/自媒体.md",
     "2_area/20_IT/01_泛前端/TypeScript.md",
-    "1_project/工作/打包原理技术分享/总体.md",
     "1_project/工作/SS人力项目成本跟踪.md",
     "2_area/20_IT/00_网络/index.md",
     "2_area/20_IT/01_泛前端/index.md",
-    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "1_project/工作/打包原理技术分享",
     "3_resource/books/IT/Package/Android.md",
     "1_project/PARA学习",
@@ -217,12 +219,10 @@
     "1_project/工作/24年工作沟通思路.md",
     "4_archive/2023/娱乐/游戏主机 + 硬件.md",
     "0_inbox/hair.md",
-    "0_inbox/时间和空间复杂度.md",
     "3_resource/books/IT/Infomation",
     "3_resource/upload/Pasted image 20240204092621.png",
     "3_resource/web-pages/执行力",
     "3_resource/people/美学/艺术展",
-    "3_resource/people/美学",
     "3_resource/upload/Pasted image 20240119163711.png",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
