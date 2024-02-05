@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_resource/books/IT/Package/Android.md",
+                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_resource/books/IT/Package/Android.md",
+                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_resource/books/IT/Package/Android.md",
+                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_resource/books/IT/Package/Android.md"
+                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md"
               }
             }
           },
@@ -185,9 +185,11 @@
   },
   "active": "8b1665cbf6469f8b",
   "lastOpenFiles": [
+    "3_resource/books/IT/Package/Android.md",
+    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
+    "1_project/PARA学习",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/FE/RN/RN技术详解.pdf",
-    "3_resource/books/IT/Package/Android.md",
     "3_resource/books/IT/Package",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
     "0_inbox/渐进式总结.md",
@@ -222,7 +224,6 @@
     "3_resource/people",
     "2_area/10_哲学&宗教/01_理论/美学",
     "2_area/50_娱乐/00_游戏/动作类",
-    "2_area/50_娱乐/00_游戏/休闲类",
     "3_resource/upload/Pasted image 20240119163711.png",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
@@ -230,7 +231,6 @@
     "3_resource/upload/Pasted image 20231204222009.png",
     "3_resource/upload/Pasted image 20231204221937.png",
     "3_resource/upload/Pasted image 20231204221527.png",
-    "3_resource/upload/Pasted image 20231127163248.png",
     "index.canvas",
     "technology/index.canvas",
     "2_area/20_IT/01_泛前端/index.canvas",
