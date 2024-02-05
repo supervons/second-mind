@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1428117630517ae6",
+        "id": "aa332075f5003e84",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1665cbf6469f8b",
+            "id": "c612978b4e0d3388",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/工作/打包原理技术分享/总体.md",
+                "file": "0_inbox/大前端成长.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/工作/打包原理技术分享/总体.md",
+                "file": "0_inbox/大前端成长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/工作/打包原理技术分享/总体.md",
+                "file": "0_inbox/大前端成长.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/工作/打包原理技术分享/总体.md"
+                "file": "0_inbox/大前端成长.md"
               }
             }
           },
@@ -185,11 +185,21 @@
   },
   "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
-    "1_project/自媒体.md",
-    "1_project/工作/打包原理技术分享/总体.md",
-    "1_project/工作/打包原理技术分享",
+    "1_project/单词本.md",
+    "0_inbox/前端管理.md",
+    "0_inbox/团队氛围.md",
+    "0_inbox/自媒体.md",
     "1_project/readme.md",
+    "0_inbox/大前端成长.md",
+    "未命名看板 1.md",
+    "未命名看板.md",
+    "2_area/20_IT/01_泛前端/TypeScript.md",
+    "1_project/工作/打包原理技术分享/总体.md",
+    "1_project/工作/SS人力项目成本跟踪.md",
+    "2_area/20_IT/00_网络/index.md",
+    "2_area/20_IT/01_泛前端/index.md",
     "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
+    "1_project/工作/打包原理技术分享",
     "1_project/未命名",
     "3_resource/books/IT/Package/Android.md",
     "1_project/PARA学习",
@@ -208,18 +218,8 @@
     "4_archive/2023/工作/SS项目组/2023年终总结.md",
     "4_archive/2023/工作/我的SS/2023工作梳理.md",
     "0_inbox/专业机构.md",
-    "0_inbox/头脑风暴学习.md",
-    "0_inbox/前端基础设施参考.md",
-    "0_inbox/开源组件问题.md",
-    "0_inbox/技术架构图.md",
-    "0_inbox/脚本.md",
-    "0_inbox/UML类图学习.md",
-    "0_inbox/research.md",
     "3_resource/books/IT/Infomation",
-    "0_inbox/战未来想法.md",
     "3_resource/upload/Pasted image 20240204092621.png",
-    "3_resource/people/美学/艺术展/日展.md",
-    "2_area/10_哲学&宗教/01_理论/美学/读《艺术趣味》有感.md",
     "3_resource/web-pages/执行力",
     "3_resource/people/美学/艺术展",
     "3_resource/people/美学",
