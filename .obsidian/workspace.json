@@ -11,11 +11,9 @@
             "id": "d29d745fb68007cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "1_project/单词本.md",
-                "mode": "source",
-                "source": false
+                "file": "cockpit.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/单词本.md",
+                "file": "cockpit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/单词本.md",
+                "file": "cockpit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/单词本.md"
+                "file": "cockpit.md"
               }
             }
           },
@@ -185,7 +183,9 @@
   },
   "active": "d29d745fb68007cd",
   "lastOpenFiles": [
+    "0_inbox/自媒体.md",
     "cockpit.md",
+    "1_project/单词本.md",
     "1_project/工作/即兴聊天内容/话题.md",
     "1_project/工作/打包原理技术分享/总体.md",
     "1_project/工作/即兴聊天内容",
@@ -203,9 +203,7 @@
     "0_inbox/前端基础设施参考.md",
     "1_project/readme.md",
     "3_resource/web-pages/团队建设",
-    "1_project/单词本.md",
     "0_inbox/团队氛围.md",
-    "0_inbox/自媒体.md",
     "2_area/20_IT/01_泛前端/TypeScript.md",
     "1_project/工作/SS人力项目成本跟踪.md",
     "2_area/20_IT/00_网络/index.md",
