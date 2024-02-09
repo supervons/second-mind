@@ -11,11 +11,9 @@
             "id": "d29d745fb68007cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "0_inbox/聊天记录同步，节省电脑空间.md",
-                "mode": "source",
-                "source": false
+                "file": "cockpit.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/聊天记录同步，节省电脑空间.md",
+                "file": "cockpit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/聊天记录同步，节省电脑空间.md",
+                "file": "cockpit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/聊天记录同步，节省电脑空间.md"
+                "file": "cockpit.md"
               }
             }
           },
@@ -185,12 +183,12 @@
   },
   "active": "d29d745fb68007cd",
   "lastOpenFiles": [
-    "cockpit.md",
+    "1_project/工作/打包原理技术分享/总体.md",
     "0_inbox/聊天记录同步，节省电脑空间.md",
+    "cockpit.md",
     "0_inbox/自媒体.md",
     "1_project/单词本.md",
     "1_project/工作/即兴聊天内容/话题.md",
-    "1_project/工作/打包原理技术分享/总体.md",
     "1_project/工作/即兴聊天内容",
     "1_project/博客搭建/博客搭建总览.md",
     "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
