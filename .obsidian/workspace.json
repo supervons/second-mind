@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7796269c528582e5",
+        "id": "9b531d0828f0e009",
         "type": "tabs",
         "children": [
           {
-            "id": "d29d745fb68007cd",
+            "id": "b8373b6eecbc052c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "cockpit.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cockpit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cockpit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cockpit.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,14 +175,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d29d745fb68007cd",
+  "active": "b8373b6eecbc052c",
   "lastOpenFiles": [
-    "1_project/工作/打包原理技术分享/总体.md",
-    "0_inbox/聊天记录同步，节省电脑空间.md",
+    "1_project/工作/即兴聊天内容/话题.md",
+    "0_inbox/工作/群聊天信息解析.md",
     "cockpit.md",
     "0_inbox/自媒体.md",
+    "1_project/工作/打包原理技术分享/总体.md",
+    "0_inbox/聊天记录同步，节省电脑空间.md",
     "1_project/单词本.md",
-    "1_project/工作/即兴聊天内容/话题.md",
     "1_project/工作/即兴聊天内容",
     "1_project/博客搭建/博客搭建总览.md",
     "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
@@ -217,7 +212,6 @@
     "3_resource/books/IT/Package",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
     "0_inbox/渐进式总结.md",
-    "0_inbox/工作/群聊天信息解析.md",
     "0_inbox/状态码规范.md",
     "1_project/工作/24年工作沟通思路.md",
     "3_resource/books/IT/Infomation",
