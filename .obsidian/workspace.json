@@ -11,9 +11,11 @@
             "id": "372765162eb4805a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "cockpit.md"
+                "file": "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cockpit.md",
+                "file": "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cockpit.md",
+                "file": "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cockpit.md"
+                "file": "1_project/ReactNative0.70升级/ReactNative0.70后升级.md"
               }
             }
           },
@@ -183,8 +185,8 @@
   },
   "active": "372765162eb4805a",
   "lastOpenFiles": [
-    "1_project/工作/即兴聊天内容/话题.md",
     "cockpit.md",
+    "1_project/工作/即兴聊天内容/话题.md",
     "3_resource/web-pages/团队建设/聊天.md",
     "1_project/工作/FY招投标.md",
     "0_inbox/工作/群聊天信息解析.md",
