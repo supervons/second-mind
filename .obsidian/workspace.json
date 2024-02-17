@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff9fa851ab182f3c",
+        "id": "f06d845d058531f6",
         "type": "tabs",
         "children": [
           {
-            "id": "372765162eb4805a",
+            "id": "64bf3f8b7056361f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
+                "file": "1_project/工作/24年工作沟通思路.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
+                "file": "1_project/工作/24年工作沟通思路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
+                "file": "1_project/工作/24年工作沟通思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/ReactNative0.70升级/ReactNative0.70后升级.md"
+                "file": "1_project/工作/24年工作沟通思路.md"
               }
             }
           },
@@ -183,48 +183,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "372765162eb4805a",
+  "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
-    "cockpit.md",
-    "1_project/工作/即兴聊天内容/话题.md",
-    "3_resource/web-pages/团队建设/聊天.md",
-    "1_project/工作/FY招投标.md",
-    "0_inbox/工作/群聊天信息解析.md",
-    "0_inbox/自媒体.md",
-    "1_project/工作/打包原理技术分享/总体.md",
-    "0_inbox/聊天记录同步，节省电脑空间.md",
-    "1_project/单词本.md",
-    "1_project/工作/即兴聊天内容",
-    "1_project/博客搭建/博客搭建总览.md",
-    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
-    "1_project/博客搭建",
-    "1_project/ReactNative0.70升级",
-    "打包技术分享.md",
-    "index.canvas",
-    "TODO.md",
-    "未命名看板 1.md",
-    "3_resource/web-pages/团队建设/前端管理.md",
-    "3_resource/web-pages/团队建设/大前端成长.md",
-    "0_inbox/前端基础设施参考.md",
-    "1_project/readme.md",
-    "3_resource/web-pages/团队建设",
-    "0_inbox/团队氛围.md",
-    "2_area/20_IT/01_泛前端/TypeScript.md",
-    "1_project/工作/SS人力项目成本跟踪.md",
-    "2_area/20_IT/00_网络/index.md",
-    "2_area/20_IT/01_泛前端/index.md",
-    "1_project/工作/打包原理技术分享",
-    "3_resource/books/IT/Package/Android.md",
-    "1_project/PARA学习",
-    "3_resource/upload/Pasted image 20240205161722.png",
-    "3_resource/books/IT/FE/RN/RN技术详解.pdf",
-    "3_resource/books/IT/Package",
-    "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
+    "0_inbox/开源规划/开源组件问题.md",
+    "0_inbox/开源规划",
+    "0_inbox/想法/搭建自己的博客作品集.md",
+    "0_inbox/脚本.md",
     "0_inbox/渐进式总结.md",
-    "3_resource/books/IT/Infomation",
+    "0_inbox/时间和空间复杂度.md",
+    "2_area/20_IT/06_架构/01_状态码/状态码规范.md",
+    "2_area/20_IT/06_架构/01_状态码",
+    "2_area/20_IT/06_架构/00_架构图参考/技术架构图.md",
+    "2_area/20_IT/06_架构/00_架构图参考",
+    "2_area/20_IT/06_架构",
+    "2_area/30_工作/04_信息渠道/专业机构.md",
+    "2_area/30_工作/04_信息渠道",
+    "4_archive/2023/信息渠道",
+    "0_inbox/工作/战未来想法.md",
+    "0_inbox/想法/MakeEpic.md",
+    "0_inbox/想法/自媒体.md",
+    "0_inbox/想法",
+    "0_inbox/搜索法.md",
+    "0_inbox/聊天记录同步，节省电脑空间.md",
+    "0_inbox/静态资源缓存处理.md",
+    "3_resource/web-pages/技术建设/前端基础设施参考.md",
+    "3_resource/web-pages/技术建设",
+    "3_resource/web-pages/团队建设/团队氛围.md",
+    "1_project/cam",
+    "0_inbox/temp/头脑风暴学习.md",
+    "4_archive/2023/娱乐/装盘计划.md",
+    "0_inbox/hair.md",
+    "0_inbox/How to be a programmer.md",
+    "0_inbox/temp/research.md",
+    "0_inbox/temp/UML类图学习.md",
+    "0_inbox/temp",
+    "0_inbox/Task-test.md",
+    "1_project/工作/SS人力项目成本跟踪.md",
+    "1_project/博客搭建/博客搭建总览.md",
+    "index.canvas",
+    "3_resource/upload/Pasted image 20240205161722.png",
+    "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
     "3_resource/upload/Pasted image 20240204092621.png",
-    "3_resource/web-pages/执行力",
     "3_resource/upload/Pasted image 20240119163711.png",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
