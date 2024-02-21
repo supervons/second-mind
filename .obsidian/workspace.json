@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f06d845d058531f6",
+        "id": "0cb857b1e4ffad1a",
         "type": "tabs",
         "children": [
           {
-            "id": "64bf3f8b7056361f",
+            "id": "83755ce8bf5189b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/工作/24年工作沟通思路.md",
+                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,12 +80,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "36a70fd01e82fe22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md"
+              }
+            }
+          },
+          {
             "id": "5a9da87e9df3cab9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/工作/24年工作沟通思路.md",
+                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/工作/24年工作沟通思路.md",
+                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,16 +126,6 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "36a70fd01e82fe22",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1_project/工作/24年工作沟通思路.md"
               }
             }
           },
@@ -164,13 +164,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "e7e2295dda079a71",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +188,22 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "74682dfebc9a882f",
   "lastOpenFiles": [
+    "1_project/工作/Coremail.md",
+    "1_project/工作/即兴聊天内容/话题.md",
+    "0_inbox/工作/战未来想法.md",
+    "0_inbox/想法/MakeEpic.md",
+    "cockpit.md",
+    "0_inbox/How to be a programmer.md",
+    "1_project/工作/SS人力项目成本跟踪.md",
+    "1_project/工作/24年工作沟通思路.md",
+    "1_project/工作/本周上线.md",
+    "1_project/工作/Busy计划.md",
     "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
     "0_inbox/开源规划/开源组件问题.md",
     "0_inbox/开源规划",
@@ -200,8 +219,6 @@
     "2_area/30_工作/04_信息渠道/专业机构.md",
     "2_area/30_工作/04_信息渠道",
     "4_archive/2023/信息渠道",
-    "0_inbox/工作/战未来想法.md",
-    "0_inbox/想法/MakeEpic.md",
     "0_inbox/想法/自媒体.md",
     "0_inbox/想法",
     "0_inbox/搜索法.md",
@@ -212,15 +229,7 @@
     "3_resource/web-pages/团队建设/团队氛围.md",
     "1_project/cam",
     "0_inbox/temp/头脑风暴学习.md",
-    "4_archive/2023/娱乐/装盘计划.md",
-    "0_inbox/hair.md",
-    "0_inbox/How to be a programmer.md",
-    "0_inbox/temp/research.md",
-    "0_inbox/temp/UML类图学习.md",
     "0_inbox/temp",
-    "0_inbox/Task-test.md",
-    "1_project/工作/SS人力项目成本跟踪.md",
-    "1_project/博客搭建/博客搭建总览.md",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
