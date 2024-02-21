@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0cb857b1e4ffad1a",
+        "id": "13004d8a0d5c532a",
         "type": "tabs",
         "children": [
           {
-            "id": "83755ce8bf5189b6",
+            "id": "aa4c8669e1b8cd9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,14 +156,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "e7e2295dda079a71",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 7
@@ -189,14 +173,24 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:复习卡片": false
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "74682dfebc9a882f",
+  "active": "aa4c8669e1b8cd9b",
   "lastOpenFiles": [
+    "0_inbox/时间和空间复杂度.md",
+    "0_inbox/搜索法.md",
+    "3_resource/web-pages/技术建设/前端基础设施参考.md",
+    "3_resource/people/美学/艺术展/日展.md",
+    "3_resource/books/IT/FE/JavaScript.md",
+    "2_area/index.md",
+    "0_inbox/未命名.md",
+    "睡觉相关-睡眠革命.md",
+    "0_inbox/工作/战未来想法.md",
+    "0_inbox/开源规划/开源组件问题.md",
+    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "1_project/工作/Coremail.md",
     "1_project/工作/即兴聊天内容/话题.md",
-    "0_inbox/工作/战未来想法.md",
     "0_inbox/想法/MakeEpic.md",
     "cockpit.md",
     "0_inbox/How to be a programmer.md",
@@ -205,30 +199,20 @@
     "1_project/工作/本周上线.md",
     "1_project/工作/Busy计划.md",
     "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
-    "0_inbox/开源规划/开源组件问题.md",
     "0_inbox/开源规划",
     "0_inbox/想法/搭建自己的博客作品集.md",
     "0_inbox/脚本.md",
     "0_inbox/渐进式总结.md",
-    "0_inbox/时间和空间复杂度.md",
     "2_area/20_IT/06_架构/01_状态码/状态码规范.md",
     "2_area/20_IT/06_架构/01_状态码",
     "2_area/20_IT/06_架构/00_架构图参考/技术架构图.md",
     "2_area/20_IT/06_架构/00_架构图参考",
     "2_area/20_IT/06_架构",
-    "2_area/30_工作/04_信息渠道/专业机构.md",
     "2_area/30_工作/04_信息渠道",
     "4_archive/2023/信息渠道",
-    "0_inbox/想法/自媒体.md",
     "0_inbox/想法",
-    "0_inbox/搜索法.md",
-    "0_inbox/聊天记录同步，节省电脑空间.md",
-    "0_inbox/静态资源缓存处理.md",
-    "3_resource/web-pages/技术建设/前端基础设施参考.md",
     "3_resource/web-pages/技术建设",
-    "3_resource/web-pages/团队建设/团队氛围.md",
     "1_project/cam",
-    "0_inbox/temp/头脑风暴学习.md",
     "0_inbox/temp",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
