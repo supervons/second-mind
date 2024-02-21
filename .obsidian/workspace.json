@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/工作/团队氛围提升/自驱力.md",
+                "file": "1_project/工作/小程序调研/腾讯小程序调研.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/工作/团队氛围提升/自驱力.md"
+                "file": "1_project/工作/小程序调研/腾讯小程序调研.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/工作/团队氛围提升/自驱力.md",
+                "file": "1_project/工作/小程序调研/腾讯小程序调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/工作/团队氛围提升/自驱力.md",
+                "file": "1_project/工作/小程序调研/腾讯小程序调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,13 @@
   },
   "active": "6b35702b5c22cb45",
   "lastOpenFiles": [
+    "3_resource/upload/Pasted image 20240221154125.png",
+    "3_resource/upload/Pasted image 20240221154032.png",
+    "3_resource/upload/Pasted image 20240221153547.png",
+    "1_project/工作/SS人力项目成本跟踪.md",
+    "1_project/工作/小程序调研/腾讯小程序调研.md",
     "1_project/工作/团队氛围提升/自驱力.md",
+    "1_project/工作/小程序调研",
     "3_resource/upload/Pasted image 20240221152000.png",
     "3_resource/upload/Pasted image 20240221151657.png",
     "3_resource/web-pages/团队建设/团队氛围.md",
@@ -212,8 +218,6 @@
     "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "1_project/工作/Coremail.md",
     "0_inbox/想法/MakeEpic.md",
-    "0_inbox/How to be a programmer.md",
-    "1_project/工作/SS人力项目成本跟踪.md",
     "0_inbox/开源规划",
     "2_area/20_IT/06_架构/01_状态码",
     "2_area/20_IT/06_架构/00_架构图参考",
@@ -222,7 +226,6 @@
     "4_archive/2023/信息渠道",
     "0_inbox/想法",
     "3_resource/web-pages/技术建设",
-    "1_project/cam",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
@@ -230,8 +233,6 @@
     "3_resource/upload/Pasted image 20240119163711.png",
     "3_resource/upload/Pasted image 20231204224147.png",
     "3_resource/upload/Pasted image 20231204222644.png",
-    "3_resource/upload/Pasted image 20231204222604.png",
-    "3_resource/upload/Pasted image 20231204222009.png",
     "technology/index.canvas",
     "2_area/20_IT/01_泛前端/index.canvas",
     "book-notes/index.canvas",
