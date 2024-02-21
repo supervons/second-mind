@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c75d48eccfb710de",
+        "id": "788cbac145e8aa4b",
         "type": "tabs",
         "children": [
           {
-            "id": "d632cffc89207624",
+            "id": "6b35702b5c22cb45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/工作/即兴聊天内容/话题.md",
+                "file": "1_project/工作/团队氛围提升/自驱力.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "氛围",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/工作/即兴聊天内容/话题.md"
+                "file": "1_project/工作/团队氛围提升/自驱力.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/工作/即兴聊天内容/话题.md",
+                "file": "1_project/工作/团队氛围提升/自驱力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/工作/即兴聊天内容/话题.md",
+                "file": "1_project/工作/团队氛围提升/自驱力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             }
           },
           {
-            "id": "74682dfebc9a882f",
+            "id": "02d3a5da86e5bb7c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,8 +184,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "d632cffc89207624",
+  "active": "6b35702b5c22cb45",
   "lastOpenFiles": [
+    "1_project/工作/团队氛围提升/自驱力.md",
+    "3_resource/upload/Pasted image 20240221152000.png",
+    "3_resource/upload/Pasted image 20240221151657.png",
+    "3_resource/web-pages/团队建设/团队氛围.md",
+    "1_project/工作/团队氛围提升",
+    "3_resource/web-pages/团队建设/大前端成长.md",
+    "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
+    "cockpit.md",
+    "1_project/工作/即兴聊天内容/话题.md",
     "0_inbox/工作/战未来想法.md",
     "0_inbox/搜索法.md",
     "2_area/30_工作/01_项目/SS人力项目.md",
@@ -202,17 +211,10 @@
     "0_inbox/开源规划/开源组件问题.md",
     "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "1_project/工作/Coremail.md",
-    "1_project/工作/即兴聊天内容/话题.md",
     "0_inbox/想法/MakeEpic.md",
-    "cockpit.md",
     "0_inbox/How to be a programmer.md",
     "1_project/工作/SS人力项目成本跟踪.md",
-    "1_project/工作/24年工作沟通思路.md",
-    "1_project/工作/本周上线.md",
-    "1_project/工作/Busy计划.md",
-    "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
     "0_inbox/开源规划",
-    "0_inbox/想法/搭建自己的博客作品集.md",
     "2_area/20_IT/06_架构/01_状态码",
     "2_area/20_IT/06_架构/00_架构图参考",
     "2_area/20_IT/06_架构",
@@ -221,7 +223,6 @@
     "0_inbox/想法",
     "3_resource/web-pages/技术建设",
     "1_project/cam",
-    "0_inbox/temp",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
@@ -231,8 +232,6 @@
     "3_resource/upload/Pasted image 20231204222644.png",
     "3_resource/upload/Pasted image 20231204222604.png",
     "3_resource/upload/Pasted image 20231204222009.png",
-    "3_resource/upload/Pasted image 20231204221937.png",
-    "3_resource/upload/Pasted image 20231204221527.png",
     "technology/index.canvas",
     "2_area/20_IT/01_泛前端/index.canvas",
     "book-notes/index.canvas",
