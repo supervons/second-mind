@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "788cbac145e8aa4b",
+        "id": "bc1196aa2d45fed4",
         "type": "tabs",
         "children": [
           {
-            "id": "6b35702b5c22cb45",
+            "id": "8238d06abc248650",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "1_project/readme.md",
-                "mode": "source",
-                "source": false
+                "file": "cockpit.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/readme.md"
+                "file": "cockpit.md"
               }
             }
           },
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/readme.md",
+                "file": "cockpit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/readme.md",
+                "file": "cockpit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +182,32 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "8238d06abc248650",
   "lastOpenFiles": [
-    "0_inbox/Vegas/WQ*HH.md",
+    "4_archive/2023/工作/SS项目组/2023年终总结.md",
+    "2_area/60_未来/00_热门行业/index.md",
+    "2_area/20_IT/05_软技能/软技能导航.md",
+    "1_project/工作/本周上线.md",
+    "2_area/50_娱乐/00_游戏/动作类/古墓丽影20周年纪念.md",
     "1_project/工作/小程序调研/腾讯小程序调研.md",
+    "0_inbox/Vegas/WQ*HH.md",
+    "3_resource/web-pages/index.md",
+    "3_resource/web-pages/团队建设/前端管理.md",
+    "2_area/20_IT/06_架构/01_状态码/状态码规范.md",
+    "3_resource/people/美学/艺术展/日展.md",
+    "4_archive/2023/工作/我的SS/95387沟通.md",
+    "2_area/20_IT/03_运维/index.md",
+    "0_inbox/搜索法.md",
+    "2_area/10_哲学&宗教/02_心得/芒格经验.md",
+    "4_archive/2024/日志/1月/01-30.md",
+    "0_inbox/hair.md",
+    "0_inbox/工作/群聊天信息解析.md",
+    "3_resource/web-pages/团队建设/团队氛围.md",
+    "2_area/20_IT/00_网络/index.md",
+    "2_area/10_哲学&宗教/02_心得/微习惯.md",
+    "2_area/20_IT/05_软技能/破除迷茫，跨学科广度 + 业务深度学习能力.md",
+    "0_inbox/时间和空间复杂度.md",
+    "1_project/readme.md",
     "0_inbox/Vegas",
     "3_resource/upload/Pasted image 20240221154125.png",
     "3_resource/upload/Pasted image 20240221154032.png",
@@ -197,29 +217,7 @@
     "1_project/工作/小程序调研",
     "3_resource/upload/Pasted image 20240221152000.png",
     "3_resource/upload/Pasted image 20240221151657.png",
-    "3_resource/web-pages/团队建设/团队氛围.md",
     "1_project/工作/团队氛围提升",
-    "3_resource/web-pages/团队建设/大前端成长.md",
-    "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
-    "cockpit.md",
-    "1_project/工作/即兴聊天内容/话题.md",
-    "0_inbox/工作/战未来想法.md",
-    "0_inbox/搜索法.md",
-    "2_area/30_工作/01_项目/SS人力项目.md",
-    "2_area/10_哲学&宗教/02_心得/微习惯.md",
-    "2_area/index.md",
-    "2_area/30_工作/04_信息渠道/专业机构.md",
-    "2_area/40_生活/index.md",
-    "0_inbox/时间和空间复杂度.md",
-    "3_resource/web-pages/技术建设/前端基础设施参考.md",
-    "3_resource/people/美学/艺术展/日展.md",
-    "3_resource/books/IT/FE/JavaScript.md",
-    "0_inbox/未命名.md",
-    "睡觉相关-睡眠革命.md",
-    "0_inbox/开源规划/开源组件问题.md",
-    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
-    "1_project/工作/Coremail.md",
-    "0_inbox/想法/MakeEpic.md",
     "0_inbox/开源规划",
     "2_area/20_IT/06_架构/01_状态码",
     "2_area/20_IT/06_架构/00_架构图参考",
