@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/Vegas/WQ*HH.md",
+                "file": "1_project/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/Vegas/WQ*HH.md"
+                "file": "1_project/readme.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/Vegas/WQ*HH.md",
+                "file": "1_project/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/Vegas/WQ*HH.md",
+                "file": "1_project/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,11 +184,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6b35702b5c22cb45",
+  "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
+    "0_inbox/Vegas/WQ*HH.md",
     "1_project/工作/小程序调研/腾讯小程序调研.md",
-    "1_project/Vegas/WQ*HH.md",
-    "1_project/Vegas",
+    "0_inbox/Vegas",
     "3_resource/upload/Pasted image 20240221154125.png",
     "3_resource/upload/Pasted image 20240221154032.png",
     "3_resource/upload/Pasted image 20240221153547.png",
