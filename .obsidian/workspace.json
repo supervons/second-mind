@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/工作/团队氛围提升/自驱力.md",
+                "file": "0_inbox/工作/测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/工作/团队氛围提升/自驱力.md"
+                "file": "0_inbox/工作/测试.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/工作/团队氛围提升/自驱力.md",
+                "file": "0_inbox/工作/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/工作/团队氛围提升/自驱力.md",
+                "file": "0_inbox/工作/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -183,11 +184,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8238d06abc248650",
+  "active": "02d3a5da86e5bb7c",
   "lastOpenFiles": [
+    "1_project/工作/团队氛围提升/自驱力.md",
+    "0_inbox/工作/测试.md",
     "3_resource/web-pages/团队建设/自驱力/自驱力怎么来.md",
     "3_resource/web-pages/团队建设/自驱力/顺着人性做事.md",
-    "1_project/工作/团队氛围提升/自驱力.md",
     "3_resource/web-pages/团队建设/自驱力",
     "0_inbox/技术分享.md",
     "cockpit.md",
@@ -211,7 +213,6 @@
     "0_inbox/工作/群聊天信息解析.md",
     "3_resource/web-pages/团队建设/团队氛围.md",
     "2_area/20_IT/00_网络/index.md",
-    "2_area/10_哲学&宗教/02_心得/微习惯.md",
     "0_inbox/Vegas",
     "3_resource/upload/Pasted image 20240221154125.png",
     "3_resource/upload/Pasted image 20240221154032.png",
