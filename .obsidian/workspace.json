@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bc1196aa2d45fed4",
+        "id": "dc9ba9f6ff2b30a2",
         "type": "tabs",
         "children": [
           {
-            "id": "8238d06abc248650",
+            "id": "214e4abac4b049ff",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "cockpit.md"
+                "file": "0_inbox/工作/防锁屏.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cockpit.md"
+                "file": "0_inbox/工作/防锁屏.md"
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cockpit.md",
+                "file": "0_inbox/工作/防锁屏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cockpit.md",
+                "file": "0_inbox/工作/防锁屏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,8 +193,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8238d06abc248650",
+  "active": "214e4abac4b049ff",
   "lastOpenFiles": [
+    "0_inbox/想法/MakeEpic.md",
+    "cockpit.md",
     "0_inbox/工作/防锁屏.md",
     "0_inbox/工作/思考.md",
     "1_project/工作/团队氛围提升/自驱力.md",
@@ -200,7 +204,6 @@
     "3_resource/web-pages/团队建设/自驱力/顺着人性做事.md",
     "3_resource/web-pages/团队建设/自驱力",
     "0_inbox/技术分享.md",
-    "cockpit.md",
     "4_archive/2023/工作/SS项目组/2023年终总结.md",
     "2_area/60_未来/00_热门行业/index.md",
     "2_area/20_IT/05_软技能/软技能导航.md",
@@ -219,7 +222,6 @@
     "4_archive/2024/日志/1月/01-30.md",
     "0_inbox/hair.md",
     "0_inbox/工作/群聊天信息解析.md",
-    "3_resource/web-pages/团队建设/团队氛围.md",
     "0_inbox/Vegas",
     "3_resource/upload/Pasted image 20240221154125.png",
     "3_resource/upload/Pasted image 20240221154032.png",
