@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/工作/防锁屏.md",
+                "file": "1_project/工作/即兴聊天内容/话题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/工作/防锁屏.md"
+                "file": "1_project/工作/即兴聊天内容/话题.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/工作/防锁屏.md",
+                "file": "1_project/工作/即兴聊天内容/话题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/工作/防锁屏.md",
+                "file": "1_project/工作/即兴聊天内容/话题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +195,9 @@
   },
   "active": "214e4abac4b049ff",
   "lastOpenFiles": [
+    "0_inbox/工作/防锁屏.md",
     "0_inbox/想法/MakeEpic.md",
     "cockpit.md",
-    "0_inbox/工作/防锁屏.md",
     "0_inbox/工作/思考.md",
     "1_project/工作/团队氛围提升/自驱力.md",
     "3_resource/web-pages/团队建设/自驱力/自驱力怎么来.md",
