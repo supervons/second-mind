@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1b143723cc227be3",
+        "id": "7c5c781b9e29b155",
         "type": "tabs",
         "children": [
           {
-            "id": "209c4ca7185b7cf9",
+            "id": "035d0f7a7ac1b7c2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "cockpit.md"
+                "file": "1_project/工作/本周上线.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cockpit.md"
+                "file": "1_project/工作/本周上线.md"
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cockpit.md",
+                "file": "1_project/工作/本周上线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cockpit.md",
+                "file": "1_project/工作/本周上线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,34 +193,37 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "02d3a5da86e5bb7c",
+  "active": "035d0f7a7ac1b7c2",
   "lastOpenFiles": [
-    "().md",
-    "0_inbox/网关负载均衡原理.md",
-    "cockpit.md",
+    "1_project/工作/团建安排.md",
+    "1_project/工作/Busy计划.md",
+    "4_archive/2024/工作/预算/SS人力项目成本跟踪.md",
+    "4_archive/2024/工作/预算",
+    "4_archive/2024/工作/会议/头脑风暴/24年工作沟通思路.md",
+    "4_archive/2024/工作/会议/头脑风暴",
+    "4_archive/2024/工作/会议",
     "1_project/工作/SDK对接.md",
-    "2_area/20_IT/04_云原生/云原生&云计算&数字化转型预研.md",
-    "3_resource/web-pages/团队建设/聊天.md",
-    "0_inbox/工作/战未来想法.md",
-    "2_area/20_IT/05_软技能/破除迷茫，跨学科广度 + 业务深度学习能力.md",
-    "4_archive/2023/会议/云原生会议总结.md",
-    "0_inbox/temp/UML类图学习.md",
-    "1_project/ReactNative0.70升级/ReactNative0.70后升级.md",
-    "1_project/工作/打包原理技术分享/总体.md",
-    "1_project/readme.md",
-    "3_resource/books/IT/Package/Android.md",
-    "4_archive/2023/工作/我的SS/沟通人员事项.md",
-    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
-    "2_area/50_娱乐/02_手办/index.md",
-    "4_archive/2023/工作/我的SS/科大讯飞语音转文字调研.md",
-    "2_area/10_哲学&宗教/index.md",
-    "0_inbox/想法/自媒体.md",
-    "0_inbox/想法/MakeEpic.md",
-    "0_inbox/想法/搭建自己的博客作品集.md",
-    "1_project/工作/即兴聊天内容/话题.md",
-    "0_inbox/工作/防锁屏.md",
-    "0_inbox/工作/思考.md",
+    "4_archive/2024/ExploreRN/ReactNative0.70升级/ReactNative0.70后升级.md",
+    "4_archive/2024/未命名",
+    "4_archive/2023/工作/SS项目组/2023年终总结.md",
+    "1_project/工作/小程序调研/腾讯小程序调研.md",
+    "4_archive/2024/工作/打包原理技术分享/总体.md",
+    "1_project/工作/本周上线.md",
+    "1_project/工作/Coremail.md",
+    "1_project/工作/FY招投标.md",
     "1_project/工作/团队氛围提升/自驱力.md",
+    "1_project/工作/即兴聊天内容/话题.md",
+    "1_project/博客搭建/博客搭建总览.md",
+    "0_inbox/技术分享.md",
+    "0_inbox/渐进式总结.md",
+    "0_inbox/脚本.md",
+    "0_inbox/静态资源缓存处理.md",
+    "0_inbox/聊天记录同步，节省电脑空间.md",
+    "0_inbox/搜索法.md",
+    "0_inbox/时间和空间复杂度.md",
+    "0_inbox/网关负载均衡原理.md",
+    "0_inbox/temp/头脑风暴学习.md",
+    "0_inbox/temp/research.md",
     "3_resource/web-pages/团队建设/自驱力",
     "0_inbox/Vegas",
     "3_resource/upload/Pasted image 20240221154125.png",
@@ -230,10 +235,6 @@
     "1_project/工作/团队氛围提升",
     "0_inbox/开源规划",
     "2_area/20_IT/06_架构/01_状态码",
-    "2_area/20_IT/06_架构/00_架构图参考",
-    "2_area/20_IT/06_架构",
-    "2_area/30_工作/04_信息渠道",
-    "4_archive/2023/信息渠道",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
