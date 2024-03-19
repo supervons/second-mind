@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5bb7d52b64eb81a1",
+        "id": "759e8f72aab07c03",
         "type": "tabs",
         "children": [
           {
-            "id": "368e86bc382621a2",
+            "id": "93d62a567c80ce82",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "diff-view",
               "state": {
-                "file": "cockpit.md"
+                "file": ".obsidian/plugins/update-time-on-edit/data.json",
+                "staged": true
               }
             }
           }
@@ -67,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.51103591918945
+    "width": 330.50390243530273
   },
   "right": {
     "id": "488843dacf52d17f",
@@ -82,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cockpit.md"
-              }
+              "state": {}
             }
           },
           {
@@ -93,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cockpit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cockpit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +188,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "368e86bc382621a2",
+  "active": "93d62a567c80ce82",
   "lastOpenFiles": [
+    "1_project/工作/FY招投标.md",
+    "1_project/工作/Coremail.md",
+    "1_project/工作/小程序调研/腾讯小程序调研.md",
+    "1_project/工作/团队氛围提升/自驱力.md",
+    "1_project/工作/即兴聊天内容/话题.md",
+    "cockpit.md",
     "3_resource/待提升技能归档.md",
     "2_area/30_工作/01_项目/SS人力项目.md",
-    "1_project/工作/FY招投标.md",
     "0_inbox/搜索法.md",
     "2_area/60_未来/index.md",
     "0_inbox/工作/战未来想法.md",
@@ -215,14 +217,9 @@
     "1_project/工作/Busy计划.md",
     "4_archive/2024/工作/预算/SS人力项目成本跟踪.md",
     "4_archive/2024/工作/预算",
-    "4_archive/2024/工作/会议/头脑风暴/24年工作沟通思路.md",
     "4_archive/2024/工作/会议/头脑风暴",
     "4_archive/2024/工作/会议",
-    "1_project/工作/SDK对接.md",
-    "4_archive/2024/ExploreRN/ReactNative0.70升级/ReactNative0.70后升级.md",
     "4_archive/2024/未命名",
-    "4_archive/2023/工作/SS项目组/2023年终总结.md",
-    "1_project/工作/小程序调研/腾讯小程序调研.md",
     "3_resource/web-pages/团队建设/自驱力",
     "0_inbox/Vegas",
     "3_resource/upload/Pasted image 20240221154125.png",
