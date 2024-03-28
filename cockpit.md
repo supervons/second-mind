@@ -1,6 +1,8 @@
 ---
+
 kanban-plugin: basic
 updated: 2024-03-26T09:21
+
 ---
 
 ## 未开始
@@ -9,6 +11,7 @@ updated: 2024-03-26T09:21
 - [ ] 处理开源Bug<br>进展：35%
 - [ ] [[自媒体]]<br>梳理有哪些项目可以做 @{2024-03-29}
 - [ ] 研究定居城市五年计划
+- [ ] 学习张小龙<br>https://mp.weixin.qq.com/s/CZZ7JSz-r1UexVY2xpJvZA
 
 
 ## 进行中

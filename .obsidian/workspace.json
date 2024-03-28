@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9db8a147504ade4e",
+        "id": "7c69c32e71cdb326",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4a3d4ad47d09a6",
+            "id": "79eebd6af7a3cdb4",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.50390243530273
+    "width": 295.51103591918945
   },
   "right": {
     "id": "488843dacf52d17f",
@@ -77,16 +77,6 @@
         "id": "1fb924cf310ce46c",
         "type": "tabs",
         "children": [
-          {
-            "id": "36a70fd01e82fe22",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "cockpit.md"
-              }
-            }
-          },
           {
             "id": "5a9da87e9df3cab9",
             "type": "leaf",
@@ -128,6 +118,16 @@
             }
           },
           {
+            "id": "36a70fd01e82fe22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cockpit.md"
+              }
+            }
+          },
+          {
             "id": "7c85c1b9cb6afbf2",
             "type": "leaf",
             "state": {
@@ -156,7 +156,7 @@
             }
           },
           {
-            "id": "02d3a5da86e5bb7c",
+            "id": "74682dfebc9a882f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -164,7 +164,7 @@
             }
           },
           {
-            "id": "de5e60bdc3b91506",
+            "id": "85a5882344c618dc",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -176,70 +176,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-spaced-repetition:复习卡片": false,
+      "random-note:开始漫游笔记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "random-note:开始漫游笔记": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d4a3d4ad47d09a6",
+  "active": "74682dfebc9a882f",
   "lastOpenFiles": [
-    "2_area/20_IT/01_泛前端/index.md",
-    "2_area/20_IT/01_泛前端/TypeScript.md",
-    "2_area/20_IT/00_网络/index.md",
-    "1_project/readme.md",
-    "0_inbox/temp/UML类图学习.md",
-    "0_inbox/temp/头脑风暴学习.md",
-    "0_inbox/temp/research.md",
-    "0_inbox/321Thought.md",
-    "3_resource/upload/screencapture-mp-weixin-qq-s-2024-03-21-10_25_03.png",
+    "4_archive/2024/ExploreRN/ReactNative0.70升级/ReactNative0.70后升级.md",
+    "4_archive/2024/ExploreRN/1月/01-30.md",
+    "4_archive/2024/ExploreRN/ReactNative0.70升级",
+    "4_archive/2024/ExploreRN/1月",
+    "4_archive/2024/ExploreRN",
     "3_resource/upload/screencapture-mp-weixin-qq-s-2024-03-21-10_25_03.pdf",
-    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
-    "0_inbox/工作/战未来想法.md",
-    "0_inbox/工作/意义.md",
-    "0_inbox/工作/思考.md",
-    "0_inbox/工作/群聊天信息解析.md",
-    "0_inbox/开源规划/开源组件问题.md",
-    "0_inbox/想法/自媒体.md",
-    "0_inbox/想法/搭建自己的博客作品集.md",
     "0_inbox/网关负载均衡原理.md",
-    "0_inbox/hair.md",
-    "0_inbox/技术分享.md",
-    "0_inbox/渐进式总结.md",
-    "0_inbox/脚本.md",
-    "0_inbox/静态资源缓存处理.md",
+    "0_inbox/工作/防锁屏.md",
+    "0_inbox/321Thought.md",
     "0_inbox/320Thought.md",
     "cockpit.md",
-    "0_inbox/How to be a programmer.md",
-    "0_inbox/时间和空间复杂度.md",
-    "4_archive/2024/工作/预算",
-    "4_archive/2024/工作/会议/头脑风暴",
-    "4_archive/2024/工作/会议",
-    "4_archive/2024/未命名",
-    "3_resource/web-pages/团队建设/自驱力",
-    "0_inbox/Vegas",
+    "3_resource/web-pages/执行力/未命名.md",
+    "3_resource/待提升技能归档.md",
+    "3_resource/web-pages/index.md",
+    "3_resource/web-pages/团队建设/自驱力/自驱力怎么来.md",
+    "4_archive/2023/娱乐/装盘计划.md",
+    "3_resource/web-pages/技术建设/前端基础设施参考.md",
+    "3_resource/web-pages/团队建设/自驱力/顺着人性做事.md",
+    "3_resource/web-pages/团队建设/聊天.md",
+    "3_resource/web-pages/团队建设/团队氛围.md",
     "3_resource/upload/Pasted image 20240221154125.png",
     "3_resource/upload/Pasted image 20240221154032.png",
     "3_resource/upload/Pasted image 20240221153547.png",
-    "1_project/工作/小程序调研",
     "3_resource/upload/Pasted image 20240221152000.png",
     "3_resource/upload/Pasted image 20240221151657.png",
-    "1_project/工作/团队氛围提升",
-    "0_inbox/开源规划",
+    "2_area/20_IT/06_架构/01_状态码/状态码规范.md",
+    "2_area/20_IT/06_架构/00_架构图参考/技术架构图.md",
+    "0_inbox/聊天记录同步，节省电脑空间.md",
+    "0_inbox/技术分享.md",
+    "0_inbox/想法/自媒体.md",
+    "0_inbox/想法/搭建自己的博客作品集.md",
+    "0_inbox/想法/MakeEpic.md",
+    "0_inbox/开源规划/开源组件问题.md",
+    "0_inbox/工作/战未来想法.md",
+    "0_inbox/工作/思考.md",
+    "3_resource/web-pages/技术建设",
+    "3_resource/web-pages/团队建设/自驱力",
+    "2_area/20_IT/06_架构/01_状态码",
+    "2_area/20_IT/06_架构/00_架构图参考",
+    "2_area/20_IT/06_架构",
+    "0_inbox/想法",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
     "3_resource/upload/Pasted image 20240204092621.png",
     "3_resource/upload/Pasted image 20240119163711.png",
+    "3_resource/upload/Pasted image 20231204224147.png",
     "technology/index.canvas",
     "2_area/20_IT/01_泛前端/index.canvas",
     "book-notes/index.canvas",
