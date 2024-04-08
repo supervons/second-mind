@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c69c32e71cdb326",
+        "id": "09d9f0632ab7c56d",
         "type": "tabs",
         "children": [
           {
-            "id": "79eebd6af7a3cdb4",
+            "id": "84de602ae76320b5",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -191,8 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79eebd6af7a3cdb4",
+  "active": "84de602ae76320b5",
   "lastOpenFiles": [
+    "0_inbox/想法/自媒体.md",
+    "cockpit.md",
     "4_archive/2024/ExploreRN/ReactNative0.70升级/ReactNative0.70后升级.md",
     "4_archive/2024/ExploreRN/1月/01-30.md",
     "4_archive/2024/ExploreRN/ReactNative0.70升级",
@@ -203,7 +205,6 @@
     "0_inbox/工作/防锁屏.md",
     "0_inbox/321Thought.md",
     "0_inbox/320Thought.md",
-    "cockpit.md",
     "3_resource/web-pages/执行力/未命名.md",
     "3_resource/待提升技能归档.md",
     "3_resource/web-pages/index.md",
@@ -222,7 +223,6 @@
     "2_area/20_IT/06_架构/00_架构图参考/技术架构图.md",
     "0_inbox/聊天记录同步，节省电脑空间.md",
     "0_inbox/技术分享.md",
-    "0_inbox/想法/自媒体.md",
     "0_inbox/想法/搭建自己的博客作品集.md",
     "0_inbox/想法/MakeEpic.md",
     "0_inbox/开源规划/开源组件问题.md",
