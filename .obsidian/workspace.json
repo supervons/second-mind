@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "812808cc989a8bfc",
+        "id": "fc89aaade96eab41",
         "type": "tabs",
         "children": [
           {
-            "id": "51186080e0772820",
+            "id": "42b0247de5aa3262",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "0_inbox/News-0409.md",
-                "mode": "source",
-                "source": false
+                "file": "cockpit.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/News-0409.md",
+                "file": "cockpit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/News-0409.md",
+                "file": "cockpit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/News-0409.md"
+                "file": "cockpit.md"
               }
             }
           },
@@ -193,9 +191,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51186080e0772820",
+  "active": "42b0247de5aa3262",
   "lastOpenFiles": [
     "0_inbox/News-0409.md",
+    "0_inbox/脚本.md",
+    "0_inbox/搜索法.md",
+    "0_inbox/静态资源缓存处理.md",
+    "0_inbox/How to be a programmer.md",
+    "0_inbox/320Thought.md",
+    "0_inbox/321Thought.md",
+    "0_inbox/想法/MakeEpic.md",
+    "0_inbox/temp/research.md",
+    "0_inbox/temp/UML类图学习.md",
     "cockpit.md",
     "0_inbox/想法/自媒体.md",
     "4_archive/2024/ExploreRN/ReactNative0.70升级/ReactNative0.70后升级.md",
@@ -206,8 +213,6 @@
     "3_resource/upload/screencapture-mp-weixin-qq-s-2024-03-21-10_25_03.pdf",
     "0_inbox/网关负载均衡原理.md",
     "0_inbox/工作/防锁屏.md",
-    "0_inbox/321Thought.md",
-    "0_inbox/320Thought.md",
     "3_resource/web-pages/执行力/未命名.md",
     "3_resource/待提升技能归档.md",
     "3_resource/web-pages/index.md",
@@ -223,13 +228,6 @@
     "3_resource/upload/Pasted image 20240221152000.png",
     "3_resource/upload/Pasted image 20240221151657.png",
     "2_area/20_IT/06_架构/01_状态码/状态码规范.md",
-    "2_area/20_IT/06_架构/00_架构图参考/技术架构图.md",
-    "0_inbox/聊天记录同步，节省电脑空间.md",
-    "0_inbox/技术分享.md",
-    "0_inbox/想法/搭建自己的博客作品集.md",
-    "0_inbox/想法/MakeEpic.md",
-    "0_inbox/开源规划/开源组件问题.md",
-    "0_inbox/工作/战未来想法.md",
     "3_resource/web-pages/技术建设",
     "3_resource/web-pages/团队建设/自驱力",
     "2_area/20_IT/06_架构/01_状态码",
