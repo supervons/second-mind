@@ -11,9 +11,11 @@
             "id": "42b0247de5aa3262",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "cockpit.md"
+                "file": "0_inbox/News-0409.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cockpit.md",
+                "file": "0_inbox/News-0409.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cockpit.md",
+                "file": "0_inbox/News-0409.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cockpit.md"
+                "file": "0_inbox/News-0409.md"
               }
             }
           },
@@ -193,6 +195,7 @@
   },
   "active": "42b0247de5aa3262",
   "lastOpenFiles": [
+    "cockpit.md",
     "0_inbox/News-0409.md",
     "0_inbox/脚本.md",
     "0_inbox/搜索法.md",
@@ -203,7 +206,6 @@
     "0_inbox/想法/MakeEpic.md",
     "0_inbox/temp/research.md",
     "0_inbox/temp/UML类图学习.md",
-    "cockpit.md",
     "0_inbox/想法/自媒体.md",
     "4_archive/2024/ExploreRN/ReactNative0.70升级/ReactNative0.70后升级.md",
     "4_archive/2024/ExploreRN/1月/01-30.md",
