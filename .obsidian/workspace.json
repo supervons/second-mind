@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc89aaade96eab41",
+        "id": "7ff4a3e5eb841079",
         "type": "tabs",
         "children": [
           {
-            "id": "42b0247de5aa3262",
+            "id": "e90ec0ae58c75a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/News-0409.md",
+                "file": "0_inbox/416Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/News-0409.md",
+                "file": "0_inbox/416Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/News-0409.md",
+                "file": "0_inbox/416Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/News-0409.md"
+                "file": "0_inbox/416Thought.md"
               }
             }
           },
@@ -193,16 +193,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42b0247de5aa3262",
+  "active": "e90ec0ae58c75a32",
   "lastOpenFiles": [
-    "cockpit.md",
+    "0_inbox/416Thought.md",
+    "0_inbox/320Thought.md",
+    "0_inbox/321Thought.md",
     "0_inbox/News-0409.md",
+    "cockpit.md",
     "0_inbox/脚本.md",
     "0_inbox/搜索法.md",
     "0_inbox/静态资源缓存处理.md",
     "0_inbox/How to be a programmer.md",
-    "0_inbox/320Thought.md",
-    "0_inbox/321Thought.md",
     "0_inbox/想法/MakeEpic.md",
     "0_inbox/temp/research.md",
     "0_inbox/temp/UML类图学习.md",
@@ -229,7 +230,6 @@
     "3_resource/upload/Pasted image 20240221153547.png",
     "3_resource/upload/Pasted image 20240221152000.png",
     "3_resource/upload/Pasted image 20240221151657.png",
-    "2_area/20_IT/06_架构/01_状态码/状态码规范.md",
     "3_resource/web-pages/技术建设",
     "3_resource/web-pages/团队建设/自驱力",
     "2_area/20_IT/06_架构/01_状态码",
