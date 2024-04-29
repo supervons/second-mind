@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "76116e833003eb2d",
+        "id": "9379eda9d69c434b",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0fc03379ed387c",
+            "id": "9f4f31d0477a28b5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "0_inbox/0429Thought.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0_inbox/0429Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0_inbox/0429Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0_inbox/0429Thought.md"
+              }
             }
           },
           {
@@ -168,8 +173,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,8 +192,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb0fc03379ed387c",
+  "active": "50c1a9b82d04a85b",
   "lastOpenFiles": [
+    "3_resource/books/Think/2022企业人效管理白皮书_盖雅工场×DHR.pdf",
+    "3_resource/books/Think/诺奖得主的四条金玉良言.md",
+    "0_inbox/0429Thought.md",
+    "0_inbox/想法/MakeEpic.md",
+    "2_area/60_未来/00_热门行业/ShortVideo.md",
+    "2_area/20_IT/05_软技能/软技能导航.md",
+    "2_area/20_IT/05_软技能/破除迷茫，跨学科广度 + 业务深度学习能力.md",
+    "2_area/20_IT/04_云原生/云原生&云计算&数字化转型预研.md",
+    "2_area/20_IT/00_网络/index.md",
+    "2_area/20_IT/04_云原生/IaaS&PaaS&SaaS.md",
+    "2_area/20_IT/01_泛前端/index.md",
+    "2_area/20_IT/01_泛前端/index.canvas",
+    "2_area/20_IT/01_泛前端/TypeScript.md",
+    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "1_project/工作/Coremail.md",
     "1_project/工作/Busy计划.md",
     "1_project/工作/SDK对接.md",
@@ -198,7 +216,6 @@
     "4_archive/2024/工作/支持",
     "4_archive/2024/工作/支持/FY招投标.md",
     "1_project/工作/本周上线.md",
-    "0_inbox/0429Thought.md",
     "0_inbox/0417Thought.md",
     "0_inbox/416Thought.md",
     "0_inbox/320Thought.md",
@@ -206,22 +223,10 @@
     "0_inbox/News-0409.md",
     "cockpit.md",
     "0_inbox/脚本.md",
-    "0_inbox/搜索法.md",
-    "0_inbox/静态资源缓存处理.md",
-    "0_inbox/How to be a programmer.md",
-    "0_inbox/想法/MakeEpic.md",
-    "0_inbox/temp/research.md",
-    "0_inbox/temp/UML类图学习.md",
-    "0_inbox/想法/自媒体.md",
-    "4_archive/2024/ExploreRN/ReactNative0.70升级/ReactNative0.70后升级.md",
-    "4_archive/2024/ExploreRN/1月/01-30.md",
     "4_archive/2024/ExploreRN/ReactNative0.70升级",
     "4_archive/2024/ExploreRN/1月",
     "4_archive/2024/ExploreRN",
     "3_resource/upload/screencapture-mp-weixin-qq-s-2024-03-21-10_25_03.pdf",
-    "0_inbox/网关负载均衡原理.md",
-    "0_inbox/工作/防锁屏.md",
-    "3_resource/web-pages/执行力/未命名.md",
     "3_resource/upload/Pasted image 20240221154125.png",
     "3_resource/upload/Pasted image 20240221154032.png",
     "3_resource/upload/Pasted image 20240221153547.png",
@@ -238,7 +243,6 @@
     "3_resource/upload/Pasted image 20240119163711.png",
     "3_resource/upload/Pasted image 20231204224147.png",
     "technology/index.canvas",
-    "2_area/20_IT/01_泛前端/index.canvas",
     "book-notes/index.canvas",
     "book-notes/BookNotes.canvas"
   ]
