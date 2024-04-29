@@ -11,8 +11,12 @@
             "id": "5fd7d2595af2a341",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0_inbox/0429Thought.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0_inbox/0429Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0_inbox/0429Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0_inbox/0429Thought.md"
+              }
             }
           },
           {
@@ -187,6 +195,7 @@
   },
   "active": "5fd7d2595af2a341",
   "lastOpenFiles": [
+    "0_inbox/0429Thought.md",
     "0_inbox/0417Thought.md",
     "0_inbox/416Thought.md",
     "0_inbox/320Thought.md",
@@ -216,7 +225,6 @@
     "4_archive/2023/娱乐/装盘计划.md",
     "3_resource/web-pages/技术建设/前端基础设施参考.md",
     "3_resource/web-pages/团队建设/自驱力/顺着人性做事.md",
-    "3_resource/web-pages/团队建设/聊天.md",
     "3_resource/upload/Pasted image 20240221154125.png",
     "3_resource/upload/Pasted image 20240221154032.png",
     "3_resource/upload/Pasted image 20240221153547.png",
