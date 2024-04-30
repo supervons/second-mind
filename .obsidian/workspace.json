@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/0429Thought.md",
+                "file": "0_inbox/0430Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/0429Thought.md",
+                "file": "0_inbox/0430Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/0429Thought.md",
+                "file": "0_inbox/0430Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/0429Thought.md"
+                "file": "0_inbox/0430Thought.md"
               }
             }
           },
@@ -173,7 +173,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -192,11 +193,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1a9b82d04a85b",
+  "active": "9f4f31d0477a28b5",
   "lastOpenFiles": [
+    "0_inbox/0429Thought.md",
+    "0_inbox/0430Thought.md",
     "3_resource/books/Think/2022企业人效管理白皮书_盖雅工场×DHR.pdf",
     "3_resource/books/Think/诺奖得主的四条金玉良言.md",
-    "0_inbox/0429Thought.md",
     "0_inbox/想法/MakeEpic.md",
     "2_area/60_未来/00_热门行业/ShortVideo.md",
     "2_area/20_IT/05_软技能/软技能导航.md",
@@ -235,7 +237,6 @@
     "3_resource/web-pages/技术建设",
     "3_resource/web-pages/团队建设/自驱力",
     "2_area/20_IT/06_架构/01_状态码",
-    "2_area/20_IT/06_架构/00_架构图参考",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
