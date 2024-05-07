@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9379eda9d69c434b",
+        "id": "e56efff32bc651d3",
         "type": "tabs",
         "children": [
           {
-            "id": "9f4f31d0477a28b5",
+            "id": "31680f0a67ce48fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/0430Thought.md",
+                "file": "0_inbox/0507Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/0430Thought.md",
+                "file": "0_inbox/0507Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/0430Thought.md",
+                "file": "0_inbox/0507Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/0430Thought.md"
+                "file": "0_inbox/0507Thought.md"
               }
             }
           },
@@ -193,10 +193,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f4f31d0477a28b5",
+  "active": "31680f0a67ce48fc",
   "lastOpenFiles": [
-    "0_inbox/0429Thought.md",
+    "原生模块.md",
+    "0_inbox/0507Thought.md",
+    "3_resource/web-pages/前端/React Native 网络层分析.md",
+    "3_resource/web-pages/前端",
+    "0_inbox/技术分享.md",
+    "0_inbox/0417Thought.md",
     "0_inbox/0430Thought.md",
+    "0_inbox/0429Thought.md",
+    "0_inbox/416Thought.md",
+    "0_inbox/321Thought.md",
+    "0_inbox/320Thought.md",
+    "0_inbox/News-0409.md",
     "3_resource/books/Think/2022企业人效管理白皮书_盖雅工场×DHR.pdf",
     "3_resource/books/Think/诺奖得主的四条金玉良言.md",
     "0_inbox/想法/MakeEpic.md",
@@ -216,15 +226,6 @@
     "4_archive/2024/工作/团队建设/团建安排.md",
     "4_archive/2024/工作/团队建设",
     "4_archive/2024/工作/支持",
-    "4_archive/2024/工作/支持/FY招投标.md",
-    "1_project/工作/本周上线.md",
-    "0_inbox/0417Thought.md",
-    "0_inbox/416Thought.md",
-    "0_inbox/320Thought.md",
-    "0_inbox/321Thought.md",
-    "0_inbox/News-0409.md",
-    "cockpit.md",
-    "0_inbox/脚本.md",
     "4_archive/2024/ExploreRN/ReactNative0.70升级",
     "4_archive/2024/ExploreRN/1月",
     "4_archive/2024/ExploreRN",
@@ -236,7 +237,6 @@
     "3_resource/upload/Pasted image 20240221151657.png",
     "3_resource/web-pages/技术建设",
     "3_resource/web-pages/团队建设/自驱力",
-    "2_area/20_IT/06_架构/01_状态码",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
