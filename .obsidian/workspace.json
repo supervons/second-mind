@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/0507Thought.md",
+                "file": "1_project/工作/翻转动画/微应用使用修改位置.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/0507Thought.md",
+                "file": "1_project/工作/翻转动画/微应用使用修改位置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/0507Thought.md",
+                "file": "1_project/工作/翻转动画/微应用使用修改位置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/0507Thought.md"
+                "file": "1_project/工作/翻转动画/微应用使用修改位置.md"
               }
             }
           },
@@ -195,9 +195,12 @@
   },
   "active": "3b288eafcd648d83",
   "lastOpenFiles": [
+    "3_resource/upload/Pasted image 20240509105818.png",
+    "0_inbox/0507Thought.md",
+    "1_project/工作/翻转动画/微应用使用修改位置.md",
+    "1_project/工作/翻转动画",
     "3_resource/web-pages/前端/React Native 网络层分析.md",
     "原生模块.md",
-    "0_inbox/0507Thought.md",
     "3_resource/web-pages/前端",
     "0_inbox/技术分享.md",
     "0_inbox/0417Thought.md",
@@ -222,8 +225,6 @@
     "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "1_project/工作/Coremail.md",
     "1_project/工作/Busy计划.md",
-    "1_project/工作/SDK对接.md",
-    "4_archive/2024/工作/团队建设/团建安排.md",
     "4_archive/2024/工作/团队建设",
     "4_archive/2024/工作/支持",
     "4_archive/2024/ExploreRN/ReactNative0.70升级",
@@ -236,7 +237,6 @@
     "3_resource/upload/Pasted image 20240221152000.png",
     "3_resource/upload/Pasted image 20240221151657.png",
     "3_resource/web-pages/技术建设",
-    "3_resource/web-pages/团队建设/自驱力",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
