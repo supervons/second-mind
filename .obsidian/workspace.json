@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75ec4ff715bd84e4",
+        "id": "d29ad82a340b48b3",
         "type": "tabs",
         "children": [
           {
-            "id": "3b288eafcd648d83",
+            "id": "f4dd78728175ea1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_project/工作/翻转动画/微应用使用修改位置.md",
+                "file": "0_inbox/0509Though.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project/工作/翻转动画/微应用使用修改位置.md",
+                "file": "0_inbox/0509Though.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project/工作/翻转动画/微应用使用修改位置.md",
+                "file": "0_inbox/0509Though.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project/工作/翻转动画/微应用使用修改位置.md"
+                "file": "0_inbox/0509Though.md"
               }
             }
           },
@@ -193,11 +193,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b288eafcd648d83",
+  "active": "f4dd78728175ea1a",
   "lastOpenFiles": [
+    "0_inbox/0509Though.md",
+    "3_resource/upload/Pasted image 20240509112254.png",
+    "1_project/工作/翻转动画/微应用使用修改位置.md",
     "3_resource/upload/Pasted image 20240509105818.png",
     "0_inbox/0507Thought.md",
-    "1_project/工作/翻转动画/微应用使用修改位置.md",
     "1_project/工作/翻转动画",
     "3_resource/web-pages/前端/React Native 网络层分析.md",
     "原生模块.md",
@@ -224,7 +226,6 @@
     "2_area/20_IT/01_泛前端/TypeScript.md",
     "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "1_project/工作/Coremail.md",
-    "1_project/工作/Busy计划.md",
     "4_archive/2024/工作/团队建设",
     "4_archive/2024/工作/支持",
     "4_archive/2024/ExploreRN/ReactNative0.70升级",
@@ -241,8 +242,6 @@
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
     "3_resource/upload/Pasted image 20240204092621.png",
-    "3_resource/upload/Pasted image 20240119163711.png",
-    "3_resource/upload/Pasted image 20231204224147.png",
     "technology/index.canvas",
     "book-notes/index.canvas",
     "book-notes/BookNotes.canvas"
