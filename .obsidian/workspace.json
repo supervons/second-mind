@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/0521Thought.md",
+                "file": "0_inbox/0522Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/0521Thought.md",
+                "file": "0_inbox/0522Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/0521Thought.md",
+                "file": "0_inbox/0522Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/0521Thought.md"
+                "file": "0_inbox/0522Thought.md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "b1eb0329c68e3197",
   "lastOpenFiles": [
-    "3_resource/upload/screencapture-mp-weixin-qq-s-bNjoMOo6c1fkn-PdmWbhKQ-2024-05-21-11_18_18.pdf",
     "0_inbox/0521Thought.md",
+    "0_inbox/0522Thought.md",
+    "3_resource/upload/screencapture-mp-weixin-qq-s-bNjoMOo6c1fkn-PdmWbhKQ-2024-05-21-11_18_18.pdf",
     "0_inbox/时间和空间复杂度.md",
     "0_inbox/0510Though.md",
     "0_inbox/0509Though.md",
@@ -238,7 +239,6 @@
     "3_resource/upload/Pasted image 20240221153547.png",
     "3_resource/upload/Pasted image 20240221152000.png",
     "3_resource/upload/Pasted image 20240221151657.png",
-    "3_resource/web-pages/技术建设",
     "index.canvas",
     "3_resource/upload/Pasted image 20240205161722.png",
     "3_resource/books/IT/Infomation/你的App是信息化时代的还是数字化时代的.png",
