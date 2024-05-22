@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d29ad82a340b48b3",
+        "id": "78c44228d9ce601a",
         "type": "tabs",
         "children": [
           {
-            "id": "f4dd78728175ea1a",
+            "id": "b1eb0329c68e3197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/0510Though.md",
+                "file": "0_inbox/0521Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/0510Though.md",
+                "file": "0_inbox/0521Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/0510Though.md",
+                "file": "0_inbox/0521Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/0510Though.md"
+                "file": "0_inbox/0521Thought.md"
               }
             }
           },
@@ -193,10 +193,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4dd78728175ea1a",
+  "active": "b1eb0329c68e3197",
   "lastOpenFiles": [
-    "0_inbox/0509Though.md",
+    "3_resource/upload/screencapture-mp-weixin-qq-s-bNjoMOo6c1fkn-PdmWbhKQ-2024-05-21-11_18_18.pdf",
+    "0_inbox/0521Thought.md",
+    "0_inbox/时间和空间复杂度.md",
     "0_inbox/0510Though.md",
+    "0_inbox/0509Though.md",
     "3_resource/upload/Pasted image 20240509112254.png",
     "1_project/工作/翻转动画/微应用使用修改位置.md",
     "3_resource/upload/Pasted image 20240509105818.png",
@@ -224,9 +227,6 @@
     "2_area/20_IT/04_云原生/IaaS&PaaS&SaaS.md",
     "2_area/20_IT/01_泛前端/index.md",
     "2_area/20_IT/01_泛前端/index.canvas",
-    "2_area/20_IT/01_泛前端/TypeScript.md",
-    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
-    "1_project/工作/Coremail.md",
     "4_archive/2024/工作/团队建设",
     "4_archive/2024/工作/支持",
     "4_archive/2024/ExploreRN/ReactNative0.70升级",
