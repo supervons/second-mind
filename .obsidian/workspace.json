@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d737bb214bb8f938",
+        "id": "5c4725c55128caab",
         "type": "tabs",
         "children": [
           {
-            "id": "cad032b2ea7fcd3c",
+            "id": "1658904b68a24013",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -145,7 +142,7 @@
             }
           },
           {
-            "id": "06a6a878b9bc3ea9",
+            "id": "fd81d37afeb8b55e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -153,7 +150,7 @@
             }
           },
           {
-            "id": "74682dfebc9a882f",
+            "id": "7dd333749d087fee",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -188,57 +185,57 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cad032b2ea7fcd3c",
+  "active": "7dd333749d087fee",
   "lastOpenFiles": [
     "0_inbox/想法/使命.md",
-    "cockpit.md",
-    "原生模块.md",
+    "0_inbox/0524.md",
+    "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
+    "4_archive/2023/手办/手办退货.md",
+    "4_archive/2024/ExploreRN/1月/01-30.md",
+    "2_area/50_娱乐/02_手办/index.md",
+    "3_resource/web-pages/技术建设/前端基础设施参考.md",
+    "2_area/10_哲学&宗教/00_思想/index.md",
+    "2_area/10_哲学&宗教/02_心得/微习惯.md",
+    "0_inbox/想法/自媒体.md",
+    "2_area/50_娱乐/00_游戏/index.md",
+    "3_resource/web-pages/团队建设/自驱力/顺着人性做事.md",
+    "0_inbox/技术分享.md",
+    "2_area/50_娱乐/01_电影/index.md",
+    "0_inbox/工作/意义.md",
+    "3_resource/web-pages/团队建设/大前端成长.md",
+    "0_inbox/temp/research.md",
+    "2_area/40_生活/00_常识/index.md",
+    "2_area/index.md",
+    "3_resource/people/美学/艺术起源的五种主要学说.md",
+    "2_area/00_健康/01_方法/index.md",
+    "2_area/20_IT/01_泛前端/TypeScript.md",
+    "0_inbox/0523Thought.md",
+    "0_inbox/0521Thought.md",
+    "0_inbox/0522Thought.md",
     "3_resource/web-pages/技术建设/领域学习.md",
-    "3_resource/web-pages/前端/React Native 网络层分析.md",
-    "3_resource/web-pages/前端",
-    "3_resource/upload/screencapture-mp-weixin-qq-s-bNjoMOo6c1fkn-PdmWbhKQ-2024-05-21-11_18_18.pdf",
     "3_resource/upload/Pasted image 20240523104300.png",
     "3_resource/upload/Pasted image 20240523104238.png",
     "3_resource/upload/Pasted image 20240523104221.png",
     "3_resource/upload/Pasted image 20240523104201.png",
     "3_resource/upload/Pasted image 20240523104138.png",
+    "3_resource/upload/screencapture-mp-weixin-qq-s-bNjoMOo6c1fkn-PdmWbhKQ-2024-05-21-11_18_18.pdf",
     "3_resource/upload/Pasted image 20240509112254.png",
     "3_resource/upload/Pasted image 20240509105818.png",
-    "3_resource/books/Think/诺奖得主的四条金玉良言.md",
+    "1_project/工作/翻转动画",
+    "3_resource/web-pages/前端",
     "3_resource/books/Think/2022企业人效管理白皮书_盖雅工场×DHR.pdf",
-    "0_inbox/News-0409.md",
-    "0_inbox/416Thought.md",
-    "0_inbox/0523Thought.md",
-    "0_inbox/0522Thought.md",
-    "0_inbox/0521Thought.md",
-    "0_inbox/0510Though.md",
-    "0_inbox/0509Though.md",
-    "0_inbox/0507Thought.md",
-    "0_inbox/0430Thought.md",
-    "0_inbox/0429Thought.md",
-    "0_inbox/0417Thought.md",
-    "4_archive/2024/ExploreRN/ReactNative0.70升级/ReactNative0.70后升级.md",
-    "4_archive/2024/ExploreRN/1月/01-30.md",
+    "2_area/20_IT/01_泛前端/index.canvas",
+    "4_archive/2024/工作/团队建设",
+    "4_archive/2024/工作/支持",
     "4_archive/2024/ExploreRN/ReactNative0.70升级",
     "4_archive/2024/ExploreRN/1月",
     "4_archive/2024/ExploreRN",
     "3_resource/upload/screencapture-mp-weixin-qq-s-2024-03-21-10_25_03.pdf",
-    "0_inbox/网关负载均衡原理.md",
-    "0_inbox/工作/防锁屏.md",
-    "0_inbox/321Thought.md",
-    "0_inbox/320Thought.md",
-    "3_resource/web-pages/执行力/未命名.md",
-    "3_resource/待提升技能归档.md",
-    "3_resource/web-pages/index.md",
     "3_resource/upload/Pasted image 20240221154125.png",
     "3_resource/upload/Pasted image 20240221154032.png",
     "3_resource/upload/Pasted image 20240221153547.png",
-    "3_resource/web-pages/技术建设",
-    "3_resource/web-pages/团队建设/自驱力",
-    "2_area/20_IT/06_架构/01_状态码",
     "index.canvas",
     "technology/index.canvas",
-    "2_area/20_IT/01_泛前端/index.canvas",
     "book-notes/index.canvas",
     "book-notes/BookNotes.canvas"
   ]
