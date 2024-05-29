@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc29889bfdb0bcf",
+        "id": "7dc6f611d6dc6a39",
         "type": "tabs",
         "children": [
           {
-            "id": "c9e49440fe56408d",
+            "id": "f7eb519996b3e92c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_inbox/想法/MakeEpic.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/想法/MakeEpic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/想法/MakeEpic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +118,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0_inbox/想法/MakeEpic.md"
-              }
-            }
-          },
-          {
-            "id": "7c85c1b9cb6afbf2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
@@ -158,18 +142,18 @@
             }
           },
           {
-            "id": "7dd333749d087fee",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "85a5882344c618dc",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f75dbe4e53c157cd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -193,10 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9e49440fe56408d",
+  "active": "f7eb519996b3e92c",
   "lastOpenFiles": [
-    "0_inbox/想法/自媒体.md",
+    "0_inbox/技术分享.md",
+    "0_inbox/0528Thought.md",
     "0_inbox/想法/MakeEpic.md",
+    "0_inbox/想法/自媒体.md",
     "0_inbox/How to be a programmer.md",
     "0_inbox/想法/使命.md",
     "0_inbox/0524.md",
@@ -209,7 +195,6 @@
     "2_area/10_哲学&宗教/02_心得/微习惯.md",
     "2_area/50_娱乐/00_游戏/index.md",
     "3_resource/web-pages/团队建设/自驱力/顺着人性做事.md",
-    "0_inbox/技术分享.md",
     "2_area/50_娱乐/01_电影/index.md",
     "0_inbox/工作/意义.md",
     "3_resource/web-pages/团队建设/大前端成长.md",
@@ -220,7 +205,6 @@
     "2_area/00_健康/01_方法/index.md",
     "2_area/20_IT/01_泛前端/TypeScript.md",
     "0_inbox/0523Thought.md",
-    "0_inbox/0521Thought.md",
     "3_resource/upload/Pasted image 20240523104300.png",
     "3_resource/upload/Pasted image 20240523104238.png",
     "3_resource/upload/Pasted image 20240523104221.png",
