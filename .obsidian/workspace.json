@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb9dcf5756b7738e",
+        "id": "251a29d5d8fb9503",
         "type": "tabs",
         "children": [
           {
-            "id": "8b773909e226a7ec",
+            "id": "0bdaa3c40b10ad6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/0529Thought..md",
+                "file": "0_inbox/0531Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/0529Thought..md",
+                "file": "0_inbox/0531Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/0529Thought..md",
+                "file": "0_inbox/0531Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/0529Thought..md"
+                "file": "0_inbox/0531Thought.md"
               }
             }
           },
@@ -185,18 +185,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b773909e226a7ec",
+  "active": "0bdaa3c40b10ad6c",
   "lastOpenFiles": [
-    "3_resource/upload/Pasted image 20240529145807.png",
     "0_inbox/0529Thought..md",
+    "0_inbox/0531Thought.md",
+    "0_inbox/0528Thought.md",
+    "0_inbox/0524.md",
+    "3_resource/upload/Pasted image 20240529145807.png",
     "1_project/博客搭建/博客搭建总览.md",
     "0_inbox/技术分享.md",
-    "0_inbox/0528Thought.md",
     "0_inbox/想法/MakeEpic.md",
     "0_inbox/想法/自媒体.md",
     "0_inbox/How to be a programmer.md",
     "0_inbox/想法/使命.md",
-    "0_inbox/0524.md",
     "1_project/PARA学习/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "4_archive/2023/手办/手办退货.md",
     "4_archive/2024/ExploreRN/1月/01-30.md",
@@ -233,7 +234,6 @@
     "3_resource/upload/screencapture-mp-weixin-qq-s-2024-03-21-10_25_03.pdf",
     "3_resource/upload/Pasted image 20240221154125.png",
     "3_resource/upload/Pasted image 20240221154032.png",
-    "3_resource/upload/Pasted image 20240221153547.png",
     "index.canvas",
     "technology/index.canvas",
     "book-notes/index.canvas",
