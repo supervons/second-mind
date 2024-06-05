@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/0603Thought.md",
+                "file": "0_inbox/0605Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/0603Thought.md",
+                "file": "0_inbox/0605Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/0603Thought.md",
+                "file": "0_inbox/0605Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/0603Thought.md"
+                "file": "0_inbox/0605Thought.md"
               }
             }
           },
@@ -187,12 +187,14 @@
   },
   "active": "9065597b59ca3364",
   "lastOpenFiles": [
-    "0_inbox/0603Thought.md",
-    "0_inbox/0524.md",
-    "0_inbox/0523Thought.md",
-    "0_inbox/0528Thought.md",
     "0_inbox/0529Thought..md",
+    "0_inbox/0605Thought.md",
+    "0_inbox/0523Thought.md",
+    "3_resource/web-pages/技术建设/领域学习.md",
+    "0_inbox/0524.md",
+    "0_inbox/0528Thought.md",
     "0_inbox/0531Thought.md",
+    "0_inbox/0603Thought.md",
     "0_inbox/想法/使命.md",
     "3_resource/upload/Pasted image 20240119163711.png",
     "2_area/30_工作/01_项目/SS人力项目.md",
@@ -213,8 +215,6 @@
     "3_resource/web-pages/团队建设/自驱力/顺着人性做事.md",
     "2_area/50_娱乐/01_电影/index.md",
     "0_inbox/工作/意义.md",
-    "3_resource/web-pages/团队建设/大前端成长.md",
-    "0_inbox/temp/research.md",
     "3_resource/upload/Pasted image 20240523104300.png",
     "3_resource/upload/Pasted image 20240523104238.png",
     "3_resource/upload/Pasted image 20240523104221.png",
