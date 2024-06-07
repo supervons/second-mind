@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/0605Thought.md",
+                "file": "0_inbox/0606Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/0605Thought.md",
+                "file": "0_inbox/0606Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/0605Thought.md",
+                "file": "0_inbox/0606Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/0605Thought.md"
+                "file": "0_inbox/0606Thought.md"
               }
             }
           },
@@ -187,9 +187,10 @@
   },
   "active": "9065597b59ca3364",
   "lastOpenFiles": [
+    "0_inbox/0605Thought.md",
+    "0_inbox/0606Thought.md",
     "3_resource/upload/Pasted image 20240605181853.png",
     "0_inbox/0529Thought..md",
-    "0_inbox/0605Thought.md",
     "0_inbox/0523Thought.md",
     "3_resource/web-pages/技术建设/领域学习.md",
     "0_inbox/0524.md",
@@ -233,7 +234,6 @@
     "4_archive/2024/ExploreRN/1月",
     "4_archive/2024/ExploreRN",
     "3_resource/upload/screencapture-mp-weixin-qq-s-2024-03-21-10_25_03.pdf",
-    "3_resource/upload/Pasted image 20240221154125.png",
     "index.canvas",
     "technology/index.canvas",
     "book-notes/index.canvas",
