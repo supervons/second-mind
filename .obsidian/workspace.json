@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4e5bc133a367b17",
+        "id": "5f15390e954b3b56",
         "type": "tabs",
         "children": [
           {
-            "id": "9065597b59ca3364",
+            "id": "76f9c0b13d428347",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,13 +185,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9065597b59ca3364",
+  "active": "76f9c0b13d428347",
   "lastOpenFiles": [
+    "0_inbox/0611Thought.md",
     "3_resource/upload/Pasted image 20240611104452.png",
     "3_resource/upload/Pasted image 20240611104332.png",
     "3_resource/upload/Pasted image 20240611104250.png",
     "0_inbox/0606Thought.md",
-    "0_inbox/0611Thought.md",
     "0_inbox/0605Thought.md",
     "3_resource/upload/Pasted image 20240605181853.png",
     "0_inbox/0529Thought..md",
@@ -222,7 +222,6 @@
     "3_resource/upload/Pasted image 20240523104238.png",
     "3_resource/upload/Pasted image 20240523104221.png",
     "3_resource/upload/Pasted image 20240523104201.png",
-    "3_resource/upload/Pasted image 20240523104138.png",
     "3_resource/upload/screencapture-mp-weixin-qq-s-bNjoMOo6c1fkn-PdmWbhKQ-2024-05-21-11_18_18.pdf",
     "1_project/工作/翻转动画",
     "3_resource/web-pages/前端",
