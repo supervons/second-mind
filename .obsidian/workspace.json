@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/0606Thought.md",
+                "file": "0_inbox/0611Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.51103591918945
+    "width": 272.50390243530273
   },
   "right": {
     "id": "488843dacf52d17f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/0606Thought.md",
+                "file": "0_inbox/0611Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/0606Thought.md",
+                "file": "0_inbox/0611Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/0606Thought.md"
+                "file": "0_inbox/0611Thought.md"
               }
             }
           },
@@ -187,8 +187,12 @@
   },
   "active": "9065597b59ca3364",
   "lastOpenFiles": [
-    "0_inbox/0605Thought.md",
+    "3_resource/upload/Pasted image 20240611104452.png",
+    "3_resource/upload/Pasted image 20240611104332.png",
+    "3_resource/upload/Pasted image 20240611104250.png",
     "0_inbox/0606Thought.md",
+    "0_inbox/0611Thought.md",
+    "0_inbox/0605Thought.md",
     "3_resource/upload/Pasted image 20240605181853.png",
     "0_inbox/0529Thought..md",
     "0_inbox/0523Thought.md",
@@ -214,16 +218,12 @@
     "2_area/10_哲学&宗教/00_思想/index.md",
     "2_area/10_哲学&宗教/02_心得/微习惯.md",
     "2_area/50_娱乐/00_游戏/index.md",
-    "3_resource/web-pages/团队建设/自驱力/顺着人性做事.md",
-    "2_area/50_娱乐/01_电影/index.md",
     "3_resource/upload/Pasted image 20240523104300.png",
     "3_resource/upload/Pasted image 20240523104238.png",
     "3_resource/upload/Pasted image 20240523104221.png",
     "3_resource/upload/Pasted image 20240523104201.png",
     "3_resource/upload/Pasted image 20240523104138.png",
     "3_resource/upload/screencapture-mp-weixin-qq-s-bNjoMOo6c1fkn-PdmWbhKQ-2024-05-21-11_18_18.pdf",
-    "3_resource/upload/Pasted image 20240509112254.png",
-    "3_resource/upload/Pasted image 20240509105818.png",
     "1_project/工作/翻转动画",
     "3_resource/web-pages/前端",
     "3_resource/books/Think/2022企业人效管理白皮书_盖雅工场×DHR.pdf",
